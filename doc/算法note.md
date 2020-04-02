@@ -1,3 +1,13 @@
+#### ASCII
+
+| Char | ASCII | Char | ASCII | Char | ASCII |
+| ---- | ----- | ---- | ----- | ---- | ----- |
+| 0    | 48    | A    | 65    | a    | 97    |
+| 9    | 57    | Z    | 90    | z    | 122   |
+|      |       |      |       |      |       |
+
+
+
 ### 1.排序
 
 #### 1.1 排序算法
@@ -88,6 +98,8 @@ int main(){
 }
 ```
 
+
+
 #### map
 
 ```c++
@@ -113,12 +125,18 @@ void assign(const_iterator first,const_iterator last); // **assign会清空你�
 bool cmp(vector<int> a, vector<int> b) {
     return a[0] < b[0]; // 升序排序
 }
+
 // 需要传的是begin，end
 sort(intervals.begin(), intervals.end(), cmp);
+
 // 初始化用{}
 vector<int> newInterval = {2, 5};
-//vector全部转到数组
+
+// vector全部转到数组
 memcpy(charary, &vec[0], vec.size() * sizeof(vec[0]));
+
+// 数组转vector
+vector<float> vecHeight(arrHeight, arrHeight+sizeof(arrHeight)/sizeof(float));
 ```
 
 #### Stack
@@ -127,4 +145,23 @@ push top
 
 #### string
 
-size  at 
+size  at  substr
+
+#### set
+
+```c++
+// vector to set
+unordered_set<string> good(words.begin(), words.end());
+```
+
+### 2. 动态规划
+
+#### int
+
+```c++
+// infinite
+int->INT_MAX
+unsigned int ->UINT_MAX
+long->LONG_MAX
+unsigned long->ULONG_MAX
+```

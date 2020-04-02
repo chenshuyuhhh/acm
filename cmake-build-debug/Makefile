@@ -123,6 +123,87 @@ LeetCode/fast:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/build
 .PHONY : LeetCode/fast
 
+Array/maxProfit.o: Array/maxProfit.cpp.o
+
+.PHONY : Array/maxProfit.o
+
+# target to build an object file
+Array/maxProfit.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Array/maxProfit.cpp.o
+.PHONY : Array/maxProfit.cpp.o
+
+Array/maxProfit.i: Array/maxProfit.cpp.i
+
+.PHONY : Array/maxProfit.i
+
+# target to preprocess a source file
+Array/maxProfit.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Array/maxProfit.cpp.i
+.PHONY : Array/maxProfit.cpp.i
+
+Array/maxProfit.s: Array/maxProfit.cpp.s
+
+.PHONY : Array/maxProfit.s
+
+# target to generate assembly for a file
+Array/maxProfit.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Array/maxProfit.cpp.s
+.PHONY : Array/maxProfit.cpp.s
+
+Array/maxProfit2.o: Array/maxProfit2.cpp.o
+
+.PHONY : Array/maxProfit2.o
+
+# target to build an object file
+Array/maxProfit2.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Array/maxProfit2.cpp.o
+.PHONY : Array/maxProfit2.cpp.o
+
+Array/maxProfit2.i: Array/maxProfit2.cpp.i
+
+.PHONY : Array/maxProfit2.i
+
+# target to preprocess a source file
+Array/maxProfit2.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Array/maxProfit2.cpp.i
+.PHONY : Array/maxProfit2.cpp.i
+
+Array/maxProfit2.s: Array/maxProfit2.cpp.s
+
+.PHONY : Array/maxProfit2.s
+
+# target to generate assembly for a file
+Array/maxProfit2.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Array/maxProfit2.cpp.s
+.PHONY : Array/maxProfit2.cpp.s
+
+Array/numRookCaptures.o: Array/numRookCaptures.cpp.o
+
+.PHONY : Array/numRookCaptures.o
+
+# target to build an object file
+Array/numRookCaptures.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Array/numRookCaptures.cpp.o
+.PHONY : Array/numRookCaptures.cpp.o
+
+Array/numRookCaptures.i: Array/numRookCaptures.cpp.i
+
+.PHONY : Array/numRookCaptures.i
+
+# target to preprocess a source file
+Array/numRookCaptures.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Array/numRookCaptures.cpp.i
+.PHONY : Array/numRookCaptures.cpp.i
+
+Array/numRookCaptures.s: Array/numRookCaptures.cpp.s
+
+.PHONY : Array/numRookCaptures.s
+
+# target to generate assembly for a file
+Array/numRookCaptures.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Array/numRookCaptures.cpp.s
+.PHONY : Array/numRookCaptures.cpp.s
+
 Sort/main.o: Sort/main.cpp.o
 
 .PHONY : Sort/main.o
@@ -176,6 +257,114 @@ Sort/main57.s: Sort/main57.cpp.s
 Sort/main57.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Sort/main57.cpp.s
 .PHONY : Sort/main57.cpp.s
+
+Sort/minIncrementForUnique.o: Sort/minIncrementForUnique.cpp.o
+
+.PHONY : Sort/minIncrementForUnique.o
+
+# target to build an object file
+Sort/minIncrementForUnique.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Sort/minIncrementForUnique.cpp.o
+.PHONY : Sort/minIncrementForUnique.cpp.o
+
+Sort/minIncrementForUnique.i: Sort/minIncrementForUnique.cpp.i
+
+.PHONY : Sort/minIncrementForUnique.i
+
+# target to preprocess a source file
+Sort/minIncrementForUnique.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Sort/minIncrementForUnique.cpp.i
+.PHONY : Sort/minIncrementForUnique.cpp.i
+
+Sort/minIncrementForUnique.s: Sort/minIncrementForUnique.cpp.s
+
+.PHONY : Sort/minIncrementForUnique.s
+
+# target to generate assembly for a file
+Sort/minIncrementForUnique.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Sort/minIncrementForUnique.cpp.s
+.PHONY : Sort/minIncrementForUnique.cpp.s
+
+Sort/sortArray.o: Sort/sortArray.cpp.o
+
+.PHONY : Sort/sortArray.o
+
+# target to build an object file
+Sort/sortArray.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Sort/sortArray.cpp.o
+.PHONY : Sort/sortArray.cpp.o
+
+Sort/sortArray.i: Sort/sortArray.cpp.i
+
+.PHONY : Sort/sortArray.i
+
+# target to preprocess a source file
+Sort/sortArray.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Sort/sortArray.cpp.i
+.PHONY : Sort/sortArray.cpp.i
+
+Sort/sortArray.s: Sort/sortArray.cpp.s
+
+.PHONY : Sort/sortArray.s
+
+# target to generate assembly for a file
+Sort/sortArray.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Sort/sortArray.cpp.s
+.PHONY : Sort/sortArray.cpp.s
+
+Sort/sortArray2.o: Sort/sortArray2.cpp.o
+
+.PHONY : Sort/sortArray2.o
+
+# target to build an object file
+Sort/sortArray2.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Sort/sortArray2.cpp.o
+.PHONY : Sort/sortArray2.cpp.o
+
+Sort/sortArray2.i: Sort/sortArray2.cpp.i
+
+.PHONY : Sort/sortArray2.i
+
+# target to preprocess a source file
+Sort/sortArray2.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Sort/sortArray2.cpp.i
+.PHONY : Sort/sortArray2.cpp.i
+
+Sort/sortArray2.s: Sort/sortArray2.cpp.s
+
+.PHONY : Sort/sortArray2.s
+
+# target to generate assembly for a file
+Sort/sortArray2.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Sort/sortArray2.cpp.s
+.PHONY : Sort/sortArray2.cpp.s
+
+Sort/sortColors.o: Sort/sortColors.cpp.o
+
+.PHONY : Sort/sortColors.o
+
+# target to build an object file
+Sort/sortColors.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Sort/sortColors.cpp.o
+.PHONY : Sort/sortColors.cpp.o
+
+Sort/sortColors.i: Sort/sortColors.cpp.i
+
+.PHONY : Sort/sortColors.i
+
+# target to preprocess a source file
+Sort/sortColors.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Sort/sortColors.cpp.i
+.PHONY : Sort/sortColors.cpp.i
+
+Sort/sortColors.s: Sort/sortColors.cpp.s
+
+.PHONY : Sort/sortColors.s
+
+# target to generate assembly for a file
+Sort/sortColors.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Sort/sortColors.cpp.s
+.PHONY : Sort/sortColors.cpp.s
 
 Sort/sortTest.o: Sort/sortTest.cpp.o
 
@@ -231,6 +420,195 @@ T1/mergeString.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/T1/mergeString.cpp.s
 .PHONY : T1/mergeString.cpp.s
 
+binary/mySqrt.o: binary/mySqrt.cpp.o
+
+.PHONY : binary/mySqrt.o
+
+# target to build an object file
+binary/mySqrt.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/binary/mySqrt.cpp.o
+.PHONY : binary/mySqrt.cpp.o
+
+binary/mySqrt.i: binary/mySqrt.cpp.i
+
+.PHONY : binary/mySqrt.i
+
+# target to preprocess a source file
+binary/mySqrt.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/binary/mySqrt.cpp.i
+.PHONY : binary/mySqrt.cpp.i
+
+binary/mySqrt.s: binary/mySqrt.cpp.s
+
+.PHONY : binary/mySqrt.s
+
+# target to generate assembly for a file
+binary/mySqrt.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/binary/mySqrt.cpp.s
+.PHONY : binary/mySqrt.cpp.s
+
+binary/search.o: binary/search.cpp.o
+
+.PHONY : binary/search.o
+
+# target to build an object file
+binary/search.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/binary/search.cpp.o
+.PHONY : binary/search.cpp.o
+
+binary/search.i: binary/search.cpp.i
+
+.PHONY : binary/search.i
+
+# target to preprocess a source file
+binary/search.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/binary/search.cpp.i
+.PHONY : binary/search.cpp.i
+
+binary/search.s: binary/search.cpp.s
+
+.PHONY : binary/search.s
+
+# target to generate assembly for a file
+binary/search.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/binary/search.cpp.s
+.PHONY : binary/search.cpp.s
+
+distance/maxDistance.o: distance/maxDistance.cpp.o
+
+.PHONY : distance/maxDistance.o
+
+# target to build an object file
+distance/maxDistance.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/distance/maxDistance.cpp.o
+.PHONY : distance/maxDistance.cpp.o
+
+distance/maxDistance.i: distance/maxDistance.cpp.i
+
+.PHONY : distance/maxDistance.i
+
+# target to preprocess a source file
+distance/maxDistance.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/distance/maxDistance.cpp.i
+.PHONY : distance/maxDistance.cpp.i
+
+distance/maxDistance.s: distance/maxDistance.cpp.s
+
+.PHONY : distance/maxDistance.s
+
+# target to generate assembly for a file
+distance/maxDistance.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/distance/maxDistance.cpp.s
+.PHONY : distance/maxDistance.cpp.s
+
+hamiton/lastRemaining.o: hamiton/lastRemaining.cpp.o
+
+.PHONY : hamiton/lastRemaining.o
+
+# target to build an object file
+hamiton/lastRemaining.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/hamiton/lastRemaining.cpp.o
+.PHONY : hamiton/lastRemaining.cpp.o
+
+hamiton/lastRemaining.i: hamiton/lastRemaining.cpp.i
+
+.PHONY : hamiton/lastRemaining.i
+
+# target to preprocess a source file
+hamiton/lastRemaining.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/hamiton/lastRemaining.cpp.i
+.PHONY : hamiton/lastRemaining.cpp.i
+
+hamiton/lastRemaining.s: hamiton/lastRemaining.cpp.s
+
+.PHONY : hamiton/lastRemaining.s
+
+# target to generate assembly for a file
+hamiton/lastRemaining.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/hamiton/lastRemaining.cpp.s
+.PHONY : hamiton/lastRemaining.cpp.s
+
+math/canMeasureWater.o: math/canMeasureWater.cpp.o
+
+.PHONY : math/canMeasureWater.o
+
+# target to build an object file
+math/canMeasureWater.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/math/canMeasureWater.cpp.o
+.PHONY : math/canMeasureWater.cpp.o
+
+math/canMeasureWater.i: math/canMeasureWater.cpp.i
+
+.PHONY : math/canMeasureWater.i
+
+# target to preprocess a source file
+math/canMeasureWater.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/math/canMeasureWater.cpp.i
+.PHONY : math/canMeasureWater.cpp.i
+
+math/canMeasureWater.s: math/canMeasureWater.cpp.s
+
+.PHONY : math/canMeasureWater.s
+
+# target to generate assembly for a file
+math/canMeasureWater.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/math/canMeasureWater.cpp.s
+.PHONY : math/canMeasureWater.cpp.s
+
+retancle/surfaceArea.o: retancle/surfaceArea.cpp.o
+
+.PHONY : retancle/surfaceArea.o
+
+# target to build an object file
+retancle/surfaceArea.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/retancle/surfaceArea.cpp.o
+.PHONY : retancle/surfaceArea.cpp.o
+
+retancle/surfaceArea.i: retancle/surfaceArea.cpp.i
+
+.PHONY : retancle/surfaceArea.i
+
+# target to preprocess a source file
+retancle/surfaceArea.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/retancle/surfaceArea.cpp.i
+.PHONY : retancle/surfaceArea.cpp.i
+
+retancle/surfaceArea.s: retancle/surfaceArea.cpp.s
+
+.PHONY : retancle/surfaceArea.s
+
+# target to generate assembly for a file
+retancle/surfaceArea.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/retancle/surfaceArea.cpp.s
+.PHONY : retancle/surfaceArea.cpp.s
+
+stack/gameOfLife.o: stack/gameOfLife.cpp.o
+
+.PHONY : stack/gameOfLife.o
+
+# target to build an object file
+stack/gameOfLife.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/stack/gameOfLife.cpp.o
+.PHONY : stack/gameOfLife.cpp.o
+
+stack/gameOfLife.i: stack/gameOfLife.cpp.i
+
+.PHONY : stack/gameOfLife.i
+
+# target to preprocess a source file
+stack/gameOfLife.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/stack/gameOfLife.cpp.i
+.PHONY : stack/gameOfLife.cpp.i
+
+stack/gameOfLife.s: stack/gameOfLife.cpp.s
+
+.PHONY : stack/gameOfLife.s
+
+# target to generate assembly for a file
+stack/gameOfLife.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/stack/gameOfLife.cpp.s
+.PHONY : stack/gameOfLife.cpp.s
+
 stack/largestRectangleArea.o: stack/largestRectangleArea.cpp.o
 
 .PHONY : stack/largestRectangleArea.o
@@ -284,6 +662,60 @@ stack/largestRectangleArea2.s: stack/largestRectangleArea2.cpp.s
 stack/largestRectangleArea2.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/stack/largestRectangleArea2.cpp.s
 .PHONY : stack/largestRectangleArea2.cpp.s
+
+stack/maxArea.o: stack/maxArea.cpp.o
+
+.PHONY : stack/maxArea.o
+
+# target to build an object file
+stack/maxArea.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/stack/maxArea.cpp.o
+.PHONY : stack/maxArea.cpp.o
+
+stack/maxArea.i: stack/maxArea.cpp.i
+
+.PHONY : stack/maxArea.i
+
+# target to preprocess a source file
+stack/maxArea.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/stack/maxArea.cpp.i
+.PHONY : stack/maxArea.cpp.i
+
+stack/maxArea.s: stack/maxArea.cpp.s
+
+.PHONY : stack/maxArea.s
+
+# target to generate assembly for a file
+stack/maxArea.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/stack/maxArea.cpp.s
+.PHONY : stack/maxArea.cpp.s
+
+stack/maxDepthAfterSplit.o: stack/maxDepthAfterSplit.cpp.o
+
+.PHONY : stack/maxDepthAfterSplit.o
+
+# target to build an object file
+stack/maxDepthAfterSplit.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/stack/maxDepthAfterSplit.cpp.o
+.PHONY : stack/maxDepthAfterSplit.cpp.o
+
+stack/maxDepthAfterSplit.i: stack/maxDepthAfterSplit.cpp.i
+
+.PHONY : stack/maxDepthAfterSplit.i
+
+# target to preprocess a source file
+stack/maxDepthAfterSplit.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/stack/maxDepthAfterSplit.cpp.i
+.PHONY : stack/maxDepthAfterSplit.cpp.i
+
+stack/maxDepthAfterSplit.s: stack/maxDepthAfterSplit.cpp.s
+
+.PHONY : stack/maxDepthAfterSplit.s
+
+# target to generate assembly for a file
+stack/maxDepthAfterSplit.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/stack/maxDepthAfterSplit.cpp.s
+.PHONY : stack/maxDepthAfterSplit.cpp.s
 
 stack/trap.o: stack/trap.cpp.o
 
@@ -339,6 +771,60 @@ string/longestPalindrome.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/string/longestPalindrome.cpp.s
 .PHONY : string/longestPalindrome.cpp.s
 
+string/minimumLengthEncoding.o: string/minimumLengthEncoding.cpp.o
+
+.PHONY : string/minimumLengthEncoding.o
+
+# target to build an object file
+string/minimumLengthEncoding.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/string/minimumLengthEncoding.cpp.o
+.PHONY : string/minimumLengthEncoding.cpp.o
+
+string/minimumLengthEncoding.i: string/minimumLengthEncoding.cpp.i
+
+.PHONY : string/minimumLengthEncoding.i
+
+# target to preprocess a source file
+string/minimumLengthEncoding.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/string/minimumLengthEncoding.cpp.i
+.PHONY : string/minimumLengthEncoding.cpp.i
+
+string/minimumLengthEncoding.s: string/minimumLengthEncoding.cpp.s
+
+.PHONY : string/minimumLengthEncoding.s
+
+# target to generate assembly for a file
+string/minimumLengthEncoding.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/string/minimumLengthEncoding.cpp.s
+.PHONY : string/minimumLengthEncoding.cpp.s
+
+string/minimumLengthEncoding2.o: string/minimumLengthEncoding2.cpp.o
+
+.PHONY : string/minimumLengthEncoding2.o
+
+# target to build an object file
+string/minimumLengthEncoding2.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/string/minimumLengthEncoding2.cpp.o
+.PHONY : string/minimumLengthEncoding2.cpp.o
+
+string/minimumLengthEncoding2.i: string/minimumLengthEncoding2.cpp.i
+
+.PHONY : string/minimumLengthEncoding2.i
+
+# target to preprocess a source file
+string/minimumLengthEncoding2.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/string/minimumLengthEncoding2.cpp.i
+.PHONY : string/minimumLengthEncoding2.cpp.i
+
+string/minimumLengthEncoding2.s: string/minimumLengthEncoding2.cpp.s
+
+.PHONY : string/minimumLengthEncoding2.s
+
+# target to generate assembly for a file
+string/minimumLengthEncoding2.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/string/minimumLengthEncoding2.cpp.s
+.PHONY : string/minimumLengthEncoding2.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -348,30 +834,84 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... LeetCode"
+	@echo "... Array/maxProfit.o"
+	@echo "... Array/maxProfit.i"
+	@echo "... Array/maxProfit.s"
+	@echo "... Array/maxProfit2.o"
+	@echo "... Array/maxProfit2.i"
+	@echo "... Array/maxProfit2.s"
+	@echo "... Array/numRookCaptures.o"
+	@echo "... Array/numRookCaptures.i"
+	@echo "... Array/numRookCaptures.s"
 	@echo "... Sort/main.o"
 	@echo "... Sort/main.i"
 	@echo "... Sort/main.s"
 	@echo "... Sort/main57.o"
 	@echo "... Sort/main57.i"
 	@echo "... Sort/main57.s"
+	@echo "... Sort/minIncrementForUnique.o"
+	@echo "... Sort/minIncrementForUnique.i"
+	@echo "... Sort/minIncrementForUnique.s"
+	@echo "... Sort/sortArray.o"
+	@echo "... Sort/sortArray.i"
+	@echo "... Sort/sortArray.s"
+	@echo "... Sort/sortArray2.o"
+	@echo "... Sort/sortArray2.i"
+	@echo "... Sort/sortArray2.s"
+	@echo "... Sort/sortColors.o"
+	@echo "... Sort/sortColors.i"
+	@echo "... Sort/sortColors.s"
 	@echo "... Sort/sortTest.o"
 	@echo "... Sort/sortTest.i"
 	@echo "... Sort/sortTest.s"
 	@echo "... T1/mergeString.o"
 	@echo "... T1/mergeString.i"
 	@echo "... T1/mergeString.s"
+	@echo "... binary/mySqrt.o"
+	@echo "... binary/mySqrt.i"
+	@echo "... binary/mySqrt.s"
+	@echo "... binary/search.o"
+	@echo "... binary/search.i"
+	@echo "... binary/search.s"
+	@echo "... distance/maxDistance.o"
+	@echo "... distance/maxDistance.i"
+	@echo "... distance/maxDistance.s"
+	@echo "... hamiton/lastRemaining.o"
+	@echo "... hamiton/lastRemaining.i"
+	@echo "... hamiton/lastRemaining.s"
+	@echo "... math/canMeasureWater.o"
+	@echo "... math/canMeasureWater.i"
+	@echo "... math/canMeasureWater.s"
+	@echo "... retancle/surfaceArea.o"
+	@echo "... retancle/surfaceArea.i"
+	@echo "... retancle/surfaceArea.s"
+	@echo "... stack/gameOfLife.o"
+	@echo "... stack/gameOfLife.i"
+	@echo "... stack/gameOfLife.s"
 	@echo "... stack/largestRectangleArea.o"
 	@echo "... stack/largestRectangleArea.i"
 	@echo "... stack/largestRectangleArea.s"
 	@echo "... stack/largestRectangleArea2.o"
 	@echo "... stack/largestRectangleArea2.i"
 	@echo "... stack/largestRectangleArea2.s"
+	@echo "... stack/maxArea.o"
+	@echo "... stack/maxArea.i"
+	@echo "... stack/maxArea.s"
+	@echo "... stack/maxDepthAfterSplit.o"
+	@echo "... stack/maxDepthAfterSplit.i"
+	@echo "... stack/maxDepthAfterSplit.s"
 	@echo "... stack/trap.o"
 	@echo "... stack/trap.i"
 	@echo "... stack/trap.s"
 	@echo "... string/longestPalindrome.o"
 	@echo "... string/longestPalindrome.i"
 	@echo "... string/longestPalindrome.s"
+	@echo "... string/minimumLengthEncoding.o"
+	@echo "... string/minimumLengthEncoding.i"
+	@echo "... string/minimumLengthEncoding.s"
+	@echo "... string/minimumLengthEncoding2.o"
+	@echo "... string/minimumLengthEncoding2.i"
+	@echo "... string/minimumLengthEncoding2.s"
 .PHONY : help
 
 

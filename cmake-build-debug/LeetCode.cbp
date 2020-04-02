@@ -80,10 +80,31 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/Array/maxProfit.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/Array/maxProfit2.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/Array/numRookCaptures.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/Sort/main.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/Sort/main57.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/Sort/minIncrementForUnique.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/Sort/sortArray.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/Sort/sortArray2.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/Sort/sortColors.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/Sort/sortTest.cpp">
@@ -92,16 +113,49 @@
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/T1/mergeString.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/binary/mySqrt.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/binary/search.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/distance/maxDistance.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/hamiton/lastRemaining.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/math/canMeasureWater.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/retancle/surfaceArea.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/stack/gameOfLife.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/stack/largestRectangleArea.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/stack/largestRectangleArea2.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/stack/maxArea.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/stack/maxDepthAfterSplit.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/stack/trap.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/string/longestPalindrome.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/string/minimumLengthEncoding.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/string/minimumLengthEncoding2.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/CMakeLists.txt">

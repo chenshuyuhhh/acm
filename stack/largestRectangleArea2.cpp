@@ -36,7 +36,7 @@ int largestRectangleArea2(vector<int> &heights) {
     return maxarea;
 }
 
-int main84() {
+int main84_2() {
     vector<int> heights = {5,4,1,2};
     cout << largestRectangleArea2(heights);
 }

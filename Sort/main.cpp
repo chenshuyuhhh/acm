@@ -50,7 +50,6 @@ int maximumGap(vector<int> &nums) {
 }
 
 int main2() {
-
     vector<int> num = {3, 6, 9, 1};
     maximumGap(num);
 }
