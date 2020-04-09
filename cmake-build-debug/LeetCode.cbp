@@ -89,6 +89,9 @@
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/Array/numRookCaptures.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/Array/rotateArray.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/Sort/main.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
@@ -113,19 +116,37 @@
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/T1/mergeString.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/binary/findmin.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/binary/mySqrt.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/binary/search.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/binary/searchRotate.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/distance/maxDistance.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/dynamic program/longestPalindrome.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/dynamic program/longestPalindrome2.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/dynamic program/minDistance.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/hamiton/lastRemaining.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/math/canMeasureWater.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/recursion/movingCount.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/retancle/surfaceArea.cpp">
@@ -156,6 +177,9 @@
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/string/minimumLengthEncoding2.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/string/myAtoi.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/CMakeLists.txt">

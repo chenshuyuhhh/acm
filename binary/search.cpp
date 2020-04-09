@@ -1,7 +1,5 @@
 #include <iostream>
-#include <string>
 #include <vector>
-#include <queue>
 
 using namespace std;
 
@@ -21,7 +19,7 @@ int search(vector<int> &nums, int target) {
     return -1;
 }
 
-int main() {
+int main704() {
     vector<int> nums = {-1, 0, 3, 5, 9, 12};
     cout << search(nums, 9);
 }

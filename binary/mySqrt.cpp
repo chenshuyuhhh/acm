@@ -1,5 +1,7 @@
 #include <iostream>
 
+using namespace std;
+
 //
 // Created by 陈姝宇 on 2020/4/2.
 //
@@ -18,9 +20,10 @@ int mySqrt(int x) {
         }
         mid = (high + low) >> 1;
     }
+    return 0;
 }
 
-int main704() {
-    // std::cout << mySqrt(4);
-    std::cout << mySqrt(2147483647);
-}
+//int main704() {
+//    // std::cout << mySqrt(4);
+//    cout << mySqrt(2147483647);
+//}

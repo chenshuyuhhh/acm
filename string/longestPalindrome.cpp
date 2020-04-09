@@ -10,7 +10,7 @@ using namespace std;
 // 给定一个包含大写字母和小写字母的字符串，找到通过这些字母构造成的最长的回文串。
 // 在构造过程中，请注意区分大小写。比如 "Aa" 不能当做一个回文字符串。
 
-int longestPalindrome(string s) {
+int longestPalindromeString(string s) {
     int result = 0;
 
     map<char, int> m; // Count characters and number of characters
@@ -32,5 +32,5 @@ int longestPalindrome(string s) {
 
 int main409() {
     string s = "abccccdd";
-    cout << longestPalindrome(s);
+    cout << longestPalindromeString(s);
 }
