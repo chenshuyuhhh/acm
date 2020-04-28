@@ -434,44 +434,44 @@ CMakeFiles/LeetCode.dir/string/myAtoi.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/string/myAtoi.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chenshuyu/Code/C:C++/leetcode/string/myAtoi.cpp -o CMakeFiles/LeetCode.dir/string/myAtoi.cpp.s
 
-CMakeFiles/LeetCode.dir/dynamic_program/minDistance.cpp.o: CMakeFiles/LeetCode.dir/flags.make
-CMakeFiles/LeetCode.dir/dynamic_program/minDistance.cpp.o: ../dynamic\ program/minDistance.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chenshuyu/Code/C:C++/leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/LeetCode.dir/dynamic_program/minDistance.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/dynamic_program/minDistance.cpp.o -c "/Users/chenshuyu/Code/C:C++/leetcode/dynamic program/minDistance.cpp"
+CMakeFiles/LeetCode.dir/dp/minDistance.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/dp/minDistance.cpp.o: ../dp/minDistance.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chenshuyu/Code/C:C++/leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/LeetCode.dir/dp/minDistance.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/dp/minDistance.cpp.o -c /Users/chenshuyu/Code/C:C++/leetcode/dp/minDistance.cpp
 
-CMakeFiles/LeetCode.dir/dynamic_program/minDistance.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/dynamic_program/minDistance.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/chenshuyu/Code/C:C++/leetcode/dynamic program/minDistance.cpp" > CMakeFiles/LeetCode.dir/dynamic_program/minDistance.cpp.i
+CMakeFiles/LeetCode.dir/dp/minDistance.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/dp/minDistance.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chenshuyu/Code/C:C++/leetcode/dp/minDistance.cpp > CMakeFiles/LeetCode.dir/dp/minDistance.cpp.i
 
-CMakeFiles/LeetCode.dir/dynamic_program/minDistance.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/dynamic_program/minDistance.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/chenshuyu/Code/C:C++/leetcode/dynamic program/minDistance.cpp" -o CMakeFiles/LeetCode.dir/dynamic_program/minDistance.cpp.s
+CMakeFiles/LeetCode.dir/dp/minDistance.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/dp/minDistance.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chenshuyu/Code/C:C++/leetcode/dp/minDistance.cpp -o CMakeFiles/LeetCode.dir/dp/minDistance.cpp.s
 
-CMakeFiles/LeetCode.dir/dynamic_program/longestPalindrome.cpp.o: CMakeFiles/LeetCode.dir/flags.make
-CMakeFiles/LeetCode.dir/dynamic_program/longestPalindrome.cpp.o: ../dynamic\ program/longestPalindrome.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chenshuyu/Code/C:C++/leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/LeetCode.dir/dynamic_program/longestPalindrome.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/dynamic_program/longestPalindrome.cpp.o -c "/Users/chenshuyu/Code/C:C++/leetcode/dynamic program/longestPalindrome.cpp"
+CMakeFiles/LeetCode.dir/dp/longestPalindrome.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/dp/longestPalindrome.cpp.o: ../dp/longestPalindrome.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chenshuyu/Code/C:C++/leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/LeetCode.dir/dp/longestPalindrome.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/dp/longestPalindrome.cpp.o -c /Users/chenshuyu/Code/C:C++/leetcode/dp/longestPalindrome.cpp
 
-CMakeFiles/LeetCode.dir/dynamic_program/longestPalindrome.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/dynamic_program/longestPalindrome.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/chenshuyu/Code/C:C++/leetcode/dynamic program/longestPalindrome.cpp" > CMakeFiles/LeetCode.dir/dynamic_program/longestPalindrome.cpp.i
+CMakeFiles/LeetCode.dir/dp/longestPalindrome.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/dp/longestPalindrome.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chenshuyu/Code/C:C++/leetcode/dp/longestPalindrome.cpp > CMakeFiles/LeetCode.dir/dp/longestPalindrome.cpp.i
 
-CMakeFiles/LeetCode.dir/dynamic_program/longestPalindrome.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/dynamic_program/longestPalindrome.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/chenshuyu/Code/C:C++/leetcode/dynamic program/longestPalindrome.cpp" -o CMakeFiles/LeetCode.dir/dynamic_program/longestPalindrome.cpp.s
+CMakeFiles/LeetCode.dir/dp/longestPalindrome.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/dp/longestPalindrome.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chenshuyu/Code/C:C++/leetcode/dp/longestPalindrome.cpp -o CMakeFiles/LeetCode.dir/dp/longestPalindrome.cpp.s
 
-CMakeFiles/LeetCode.dir/dynamic_program/longestPalindrome2.cpp.o: CMakeFiles/LeetCode.dir/flags.make
-CMakeFiles/LeetCode.dir/dynamic_program/longestPalindrome2.cpp.o: ../dynamic\ program/longestPalindrome2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chenshuyu/Code/C:C++/leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/LeetCode.dir/dynamic_program/longestPalindrome2.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/dynamic_program/longestPalindrome2.cpp.o -c "/Users/chenshuyu/Code/C:C++/leetcode/dynamic program/longestPalindrome2.cpp"
+CMakeFiles/LeetCode.dir/dp/longestPalindrome2.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/dp/longestPalindrome2.cpp.o: ../dp/longestPalindrome2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chenshuyu/Code/C:C++/leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/LeetCode.dir/dp/longestPalindrome2.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/dp/longestPalindrome2.cpp.o -c /Users/chenshuyu/Code/C:C++/leetcode/dp/longestPalindrome2.cpp
 
-CMakeFiles/LeetCode.dir/dynamic_program/longestPalindrome2.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/dynamic_program/longestPalindrome2.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/chenshuyu/Code/C:C++/leetcode/dynamic program/longestPalindrome2.cpp" > CMakeFiles/LeetCode.dir/dynamic_program/longestPalindrome2.cpp.i
+CMakeFiles/LeetCode.dir/dp/longestPalindrome2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/dp/longestPalindrome2.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chenshuyu/Code/C:C++/leetcode/dp/longestPalindrome2.cpp > CMakeFiles/LeetCode.dir/dp/longestPalindrome2.cpp.i
 
-CMakeFiles/LeetCode.dir/dynamic_program/longestPalindrome2.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/dynamic_program/longestPalindrome2.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/chenshuyu/Code/C:C++/leetcode/dynamic program/longestPalindrome2.cpp" -o CMakeFiles/LeetCode.dir/dynamic_program/longestPalindrome2.cpp.s
+CMakeFiles/LeetCode.dir/dp/longestPalindrome2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/dp/longestPalindrome2.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chenshuyu/Code/C:C++/leetcode/dp/longestPalindrome2.cpp -o CMakeFiles/LeetCode.dir/dp/longestPalindrome2.cpp.s
 
 CMakeFiles/LeetCode.dir/Array/rotateArray.cpp.o: CMakeFiles/LeetCode.dir/flags.make
 CMakeFiles/LeetCode.dir/Array/rotateArray.cpp.o: ../Array/rotateArray.cpp
@@ -498,6 +498,84 @@ CMakeFiles/LeetCode.dir/recursion/movingCount.cpp.i: cmake_force
 CMakeFiles/LeetCode.dir/recursion/movingCount.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/recursion/movingCount.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chenshuyu/Code/C:C++/leetcode/recursion/movingCount.cpp -o CMakeFiles/LeetCode.dir/recursion/movingCount.cpp.s
+
+CMakeFiles/LeetCode.dir/dp/updateMatrix.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/dp/updateMatrix.cpp.o: ../dp/updateMatrix.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chenshuyu/Code/C:C++/leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/LeetCode.dir/dp/updateMatrix.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/dp/updateMatrix.cpp.o -c /Users/chenshuyu/Code/C:C++/leetcode/dp/updateMatrix.cpp
+
+CMakeFiles/LeetCode.dir/dp/updateMatrix.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/dp/updateMatrix.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chenshuyu/Code/C:C++/leetcode/dp/updateMatrix.cpp > CMakeFiles/LeetCode.dir/dp/updateMatrix.cpp.i
+
+CMakeFiles/LeetCode.dir/dp/updateMatrix.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/dp/updateMatrix.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chenshuyu/Code/C:C++/leetcode/dp/updateMatrix.cpp -o CMakeFiles/LeetCode.dir/dp/updateMatrix.cpp.s
+
+CMakeFiles/LeetCode.dir/wisdom/getMaxRepetitions.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/wisdom/getMaxRepetitions.cpp.o: ../wisdom/getMaxRepetitions.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chenshuyu/Code/C:C++/leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/LeetCode.dir/wisdom/getMaxRepetitions.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/wisdom/getMaxRepetitions.cpp.o -c /Users/chenshuyu/Code/C:C++/leetcode/wisdom/getMaxRepetitions.cpp
+
+CMakeFiles/LeetCode.dir/wisdom/getMaxRepetitions.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/wisdom/getMaxRepetitions.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chenshuyu/Code/C:C++/leetcode/wisdom/getMaxRepetitions.cpp > CMakeFiles/LeetCode.dir/wisdom/getMaxRepetitions.cpp.i
+
+CMakeFiles/LeetCode.dir/wisdom/getMaxRepetitions.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/wisdom/getMaxRepetitions.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chenshuyu/Code/C:C++/leetcode/wisdom/getMaxRepetitions.cpp -o CMakeFiles/LeetCode.dir/wisdom/getMaxRepetitions.cpp.s
+
+CMakeFiles/LeetCode.dir/permute/permute.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/permute/permute.cpp.o: ../permute/permute.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chenshuyu/Code/C:C++/leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/LeetCode.dir/permute/permute.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/permute/permute.cpp.o -c /Users/chenshuyu/Code/C:C++/leetcode/permute/permute.cpp
+
+CMakeFiles/LeetCode.dir/permute/permute.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/permute/permute.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chenshuyu/Code/C:C++/leetcode/permute/permute.cpp > CMakeFiles/LeetCode.dir/permute/permute.cpp.i
+
+CMakeFiles/LeetCode.dir/permute/permute.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/permute/permute.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chenshuyu/Code/C:C++/leetcode/permute/permute.cpp -o CMakeFiles/LeetCode.dir/permute/permute.cpp.s
+
+CMakeFiles/LeetCode.dir/Sort/mergeKLists.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Sort/mergeKLists.cpp.o: ../Sort/mergeKLists.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chenshuyu/Code/C:C++/leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/LeetCode.dir/Sort/mergeKLists.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/Sort/mergeKLists.cpp.o -c /Users/chenshuyu/Code/C:C++/leetcode/Sort/mergeKLists.cpp
+
+CMakeFiles/LeetCode.dir/Sort/mergeKLists.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Sort/mergeKLists.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chenshuyu/Code/C:C++/leetcode/Sort/mergeKLists.cpp > CMakeFiles/LeetCode.dir/Sort/mergeKLists.cpp.i
+
+CMakeFiles/LeetCode.dir/Sort/mergeKLists.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Sort/mergeKLists.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chenshuyu/Code/C:C++/leetcode/Sort/mergeKLists.cpp -o CMakeFiles/LeetCode.dir/Sort/mergeKLists.cpp.s
+
+CMakeFiles/LeetCode.dir/wisdom/twoSum.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/wisdom/twoSum.cpp.o: ../wisdom/twoSum.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chenshuyu/Code/C:C++/leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/LeetCode.dir/wisdom/twoSum.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/wisdom/twoSum.cpp.o -c /Users/chenshuyu/Code/C:C++/leetcode/wisdom/twoSum.cpp
+
+CMakeFiles/LeetCode.dir/wisdom/twoSum.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/wisdom/twoSum.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chenshuyu/Code/C:C++/leetcode/wisdom/twoSum.cpp > CMakeFiles/LeetCode.dir/wisdom/twoSum.cpp.i
+
+CMakeFiles/LeetCode.dir/wisdom/twoSum.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/wisdom/twoSum.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chenshuyu/Code/C:C++/leetcode/wisdom/twoSum.cpp -o CMakeFiles/LeetCode.dir/wisdom/twoSum.cpp.s
+
+CMakeFiles/LeetCode.dir/wisdom/singleNumbers.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/wisdom/singleNumbers.cpp.o: ../wisdom/singleNumbers.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chenshuyu/Code/C:C++/leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/LeetCode.dir/wisdom/singleNumbers.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/wisdom/singleNumbers.cpp.o -c /Users/chenshuyu/Code/C:C++/leetcode/wisdom/singleNumbers.cpp
+
+CMakeFiles/LeetCode.dir/wisdom/singleNumbers.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/wisdom/singleNumbers.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chenshuyu/Code/C:C++/leetcode/wisdom/singleNumbers.cpp > CMakeFiles/LeetCode.dir/wisdom/singleNumbers.cpp.i
+
+CMakeFiles/LeetCode.dir/wisdom/singleNumbers.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/wisdom/singleNumbers.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chenshuyu/Code/C:C++/leetcode/wisdom/singleNumbers.cpp -o CMakeFiles/LeetCode.dir/wisdom/singleNumbers.cpp.s
 
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
@@ -530,11 +608,17 @@ LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/binary/searchRotate.cpp.o" \
 "CMakeFiles/LeetCode.dir/binary/findmin.cpp.o" \
 "CMakeFiles/LeetCode.dir/string/myAtoi.cpp.o" \
-"CMakeFiles/LeetCode.dir/dynamic_program/minDistance.cpp.o" \
-"CMakeFiles/LeetCode.dir/dynamic_program/longestPalindrome.cpp.o" \
-"CMakeFiles/LeetCode.dir/dynamic_program/longestPalindrome2.cpp.o" \
+"CMakeFiles/LeetCode.dir/dp/minDistance.cpp.o" \
+"CMakeFiles/LeetCode.dir/dp/longestPalindrome.cpp.o" \
+"CMakeFiles/LeetCode.dir/dp/longestPalindrome2.cpp.o" \
 "CMakeFiles/LeetCode.dir/Array/rotateArray.cpp.o" \
-"CMakeFiles/LeetCode.dir/recursion/movingCount.cpp.o"
+"CMakeFiles/LeetCode.dir/recursion/movingCount.cpp.o" \
+"CMakeFiles/LeetCode.dir/dp/updateMatrix.cpp.o" \
+"CMakeFiles/LeetCode.dir/wisdom/getMaxRepetitions.cpp.o" \
+"CMakeFiles/LeetCode.dir/permute/permute.cpp.o" \
+"CMakeFiles/LeetCode.dir/Sort/mergeKLists.cpp.o" \
+"CMakeFiles/LeetCode.dir/wisdom/twoSum.cpp.o" \
+"CMakeFiles/LeetCode.dir/wisdom/singleNumbers.cpp.o"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
@@ -568,14 +652,20 @@ LeetCode: CMakeFiles/LeetCode.dir/binary/search.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/binary/searchRotate.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/binary/findmin.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/string/myAtoi.cpp.o
-LeetCode: CMakeFiles/LeetCode.dir/dynamic_program/minDistance.cpp.o
-LeetCode: CMakeFiles/LeetCode.dir/dynamic_program/longestPalindrome.cpp.o
-LeetCode: CMakeFiles/LeetCode.dir/dynamic_program/longestPalindrome2.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/dp/minDistance.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/dp/longestPalindrome.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/dp/longestPalindrome2.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/Array/rotateArray.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/recursion/movingCount.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/dp/updateMatrix.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/wisdom/getMaxRepetitions.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/permute/permute.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Sort/mergeKLists.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/wisdom/twoSum.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/wisdom/singleNumbers.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/build.make
 LeetCode: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/chenshuyu/Code/C:C++/leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Linking CXX executable LeetCode"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/chenshuyu/Code/C:C++/leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Linking CXX executable LeetCode"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LeetCode.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

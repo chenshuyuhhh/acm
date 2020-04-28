@@ -6,9 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/chenshuyu/Code/C:C++/leetcode/recursion/movingCount.cpp
-vector
+/Users/chenshuyu/Code/C:C++/leetcode/wisdom/twoSum.cpp
+string
 -
 iostream
+-
+vector
+-
+map
 -
 

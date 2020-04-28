@@ -98,6 +98,9 @@
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/Sort/main57.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/Sort/mergeKLists.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/Sort/minIncrementForUnique.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
@@ -131,19 +134,25 @@
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/distance/maxDistance.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/dynamic program/longestPalindrome.cpp">
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/dp/longestPalindrome.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/dynamic program/longestPalindrome2.cpp">
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/dp/longestPalindrome2.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/dynamic program/minDistance.cpp">
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/dp/minDistance.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/dp/updateMatrix.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/hamiton/lastRemaining.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/math/canMeasureWater.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/permute/permute.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/recursion/movingCount.cpp">
@@ -180,6 +189,18 @@
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/string/myAtoi.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/wisdom/getMaxRepetitions.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/wisdom/singleNumbers.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/wisdom/singleNumbers.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/wisdom/twoSum.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/CMakeLists.txt">

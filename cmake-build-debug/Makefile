@@ -285,6 +285,33 @@ Sort/main57.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Sort/main57.cpp.s
 .PHONY : Sort/main57.cpp.s
 
+Sort/mergeKLists.o: Sort/mergeKLists.cpp.o
+
+.PHONY : Sort/mergeKLists.o
+
+# target to build an object file
+Sort/mergeKLists.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Sort/mergeKLists.cpp.o
+.PHONY : Sort/mergeKLists.cpp.o
+
+Sort/mergeKLists.i: Sort/mergeKLists.cpp.i
+
+.PHONY : Sort/mergeKLists.i
+
+# target to preprocess a source file
+Sort/mergeKLists.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Sort/mergeKLists.cpp.i
+.PHONY : Sort/mergeKLists.cpp.i
+
+Sort/mergeKLists.s: Sort/mergeKLists.cpp.s
+
+.PHONY : Sort/mergeKLists.s
+
+# target to generate assembly for a file
+Sort/mergeKLists.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Sort/mergeKLists.cpp.s
+.PHONY : Sort/mergeKLists.cpp.s
+
 Sort/minIncrementForUnique.o: Sort/minIncrementForUnique.cpp.o
 
 .PHONY : Sort/minIncrementForUnique.o
@@ -582,86 +609,113 @@ distance/maxDistance.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/distance/maxDistance.cpp.s
 .PHONY : distance/maxDistance.cpp.s
 
-dynamic_program/longestPalindrome.o: dynamic_program/longestPalindrome.cpp.o
+dp/longestPalindrome.o: dp/longestPalindrome.cpp.o
 
-.PHONY : dynamic_program/longestPalindrome.o
-
-# target to build an object file
-dynamic_program/longestPalindrome.cpp.o:
-	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dynamic_program/longestPalindrome.cpp.o
-.PHONY : dynamic_program/longestPalindrome.cpp.o
-
-dynamic_program/longestPalindrome.i: dynamic_program/longestPalindrome.cpp.i
-
-.PHONY : dynamic_program/longestPalindrome.i
-
-# target to preprocess a source file
-dynamic_program/longestPalindrome.cpp.i:
-	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dynamic_program/longestPalindrome.cpp.i
-.PHONY : dynamic_program/longestPalindrome.cpp.i
-
-dynamic_program/longestPalindrome.s: dynamic_program/longestPalindrome.cpp.s
-
-.PHONY : dynamic_program/longestPalindrome.s
-
-# target to generate assembly for a file
-dynamic_program/longestPalindrome.cpp.s:
-	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dynamic_program/longestPalindrome.cpp.s
-.PHONY : dynamic_program/longestPalindrome.cpp.s
-
-dynamic_program/longestPalindrome2.o: dynamic_program/longestPalindrome2.cpp.o
-
-.PHONY : dynamic_program/longestPalindrome2.o
+.PHONY : dp/longestPalindrome.o
 
 # target to build an object file
-dynamic_program/longestPalindrome2.cpp.o:
-	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dynamic_program/longestPalindrome2.cpp.o
-.PHONY : dynamic_program/longestPalindrome2.cpp.o
+dp/longestPalindrome.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dp/longestPalindrome.cpp.o
+.PHONY : dp/longestPalindrome.cpp.o
 
-dynamic_program/longestPalindrome2.i: dynamic_program/longestPalindrome2.cpp.i
+dp/longestPalindrome.i: dp/longestPalindrome.cpp.i
 
-.PHONY : dynamic_program/longestPalindrome2.i
+.PHONY : dp/longestPalindrome.i
 
 # target to preprocess a source file
-dynamic_program/longestPalindrome2.cpp.i:
-	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dynamic_program/longestPalindrome2.cpp.i
-.PHONY : dynamic_program/longestPalindrome2.cpp.i
+dp/longestPalindrome.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dp/longestPalindrome.cpp.i
+.PHONY : dp/longestPalindrome.cpp.i
 
-dynamic_program/longestPalindrome2.s: dynamic_program/longestPalindrome2.cpp.s
+dp/longestPalindrome.s: dp/longestPalindrome.cpp.s
 
-.PHONY : dynamic_program/longestPalindrome2.s
+.PHONY : dp/longestPalindrome.s
 
 # target to generate assembly for a file
-dynamic_program/longestPalindrome2.cpp.s:
-	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dynamic_program/longestPalindrome2.cpp.s
-.PHONY : dynamic_program/longestPalindrome2.cpp.s
+dp/longestPalindrome.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dp/longestPalindrome.cpp.s
+.PHONY : dp/longestPalindrome.cpp.s
 
-dynamic_program/minDistance.o: dynamic_program/minDistance.cpp.o
+dp/longestPalindrome2.o: dp/longestPalindrome2.cpp.o
 
-.PHONY : dynamic_program/minDistance.o
+.PHONY : dp/longestPalindrome2.o
 
 # target to build an object file
-dynamic_program/minDistance.cpp.o:
-	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dynamic_program/minDistance.cpp.o
-.PHONY : dynamic_program/minDistance.cpp.o
+dp/longestPalindrome2.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dp/longestPalindrome2.cpp.o
+.PHONY : dp/longestPalindrome2.cpp.o
 
-dynamic_program/minDistance.i: dynamic_program/minDistance.cpp.i
+dp/longestPalindrome2.i: dp/longestPalindrome2.cpp.i
 
-.PHONY : dynamic_program/minDistance.i
+.PHONY : dp/longestPalindrome2.i
 
 # target to preprocess a source file
-dynamic_program/minDistance.cpp.i:
-	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dynamic_program/minDistance.cpp.i
-.PHONY : dynamic_program/minDistance.cpp.i
+dp/longestPalindrome2.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dp/longestPalindrome2.cpp.i
+.PHONY : dp/longestPalindrome2.cpp.i
 
-dynamic_program/minDistance.s: dynamic_program/minDistance.cpp.s
+dp/longestPalindrome2.s: dp/longestPalindrome2.cpp.s
 
-.PHONY : dynamic_program/minDistance.s
+.PHONY : dp/longestPalindrome2.s
 
 # target to generate assembly for a file
-dynamic_program/minDistance.cpp.s:
-	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dynamic_program/minDistance.cpp.s
-.PHONY : dynamic_program/minDistance.cpp.s
+dp/longestPalindrome2.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dp/longestPalindrome2.cpp.s
+.PHONY : dp/longestPalindrome2.cpp.s
+
+dp/minDistance.o: dp/minDistance.cpp.o
+
+.PHONY : dp/minDistance.o
+
+# target to build an object file
+dp/minDistance.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dp/minDistance.cpp.o
+.PHONY : dp/minDistance.cpp.o
+
+dp/minDistance.i: dp/minDistance.cpp.i
+
+.PHONY : dp/minDistance.i
+
+# target to preprocess a source file
+dp/minDistance.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dp/minDistance.cpp.i
+.PHONY : dp/minDistance.cpp.i
+
+dp/minDistance.s: dp/minDistance.cpp.s
+
+.PHONY : dp/minDistance.s
+
+# target to generate assembly for a file
+dp/minDistance.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dp/minDistance.cpp.s
+.PHONY : dp/minDistance.cpp.s
+
+dp/updateMatrix.o: dp/updateMatrix.cpp.o
+
+.PHONY : dp/updateMatrix.o
+
+# target to build an object file
+dp/updateMatrix.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dp/updateMatrix.cpp.o
+.PHONY : dp/updateMatrix.cpp.o
+
+dp/updateMatrix.i: dp/updateMatrix.cpp.i
+
+.PHONY : dp/updateMatrix.i
+
+# target to preprocess a source file
+dp/updateMatrix.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dp/updateMatrix.cpp.i
+.PHONY : dp/updateMatrix.cpp.i
+
+dp/updateMatrix.s: dp/updateMatrix.cpp.s
+
+.PHONY : dp/updateMatrix.s
+
+# target to generate assembly for a file
+dp/updateMatrix.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dp/updateMatrix.cpp.s
+.PHONY : dp/updateMatrix.cpp.s
 
 hamiton/lastRemaining.o: hamiton/lastRemaining.cpp.o
 
@@ -716,6 +770,33 @@ math/canMeasureWater.s: math/canMeasureWater.cpp.s
 math/canMeasureWater.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/math/canMeasureWater.cpp.s
 .PHONY : math/canMeasureWater.cpp.s
+
+permute/permute.o: permute/permute.cpp.o
+
+.PHONY : permute/permute.o
+
+# target to build an object file
+permute/permute.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/permute/permute.cpp.o
+.PHONY : permute/permute.cpp.o
+
+permute/permute.i: permute/permute.cpp.i
+
+.PHONY : permute/permute.i
+
+# target to preprocess a source file
+permute/permute.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/permute/permute.cpp.i
+.PHONY : permute/permute.cpp.i
+
+permute/permute.s: permute/permute.cpp.s
+
+.PHONY : permute/permute.s
+
+# target to generate assembly for a file
+permute/permute.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/permute/permute.cpp.s
+.PHONY : permute/permute.cpp.s
 
 recursion/movingCount.o: recursion/movingCount.cpp.o
 
@@ -1041,6 +1122,87 @@ string/myAtoi.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/string/myAtoi.cpp.s
 .PHONY : string/myAtoi.cpp.s
 
+wisdom/getMaxRepetitions.o: wisdom/getMaxRepetitions.cpp.o
+
+.PHONY : wisdom/getMaxRepetitions.o
+
+# target to build an object file
+wisdom/getMaxRepetitions.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/wisdom/getMaxRepetitions.cpp.o
+.PHONY : wisdom/getMaxRepetitions.cpp.o
+
+wisdom/getMaxRepetitions.i: wisdom/getMaxRepetitions.cpp.i
+
+.PHONY : wisdom/getMaxRepetitions.i
+
+# target to preprocess a source file
+wisdom/getMaxRepetitions.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/wisdom/getMaxRepetitions.cpp.i
+.PHONY : wisdom/getMaxRepetitions.cpp.i
+
+wisdom/getMaxRepetitions.s: wisdom/getMaxRepetitions.cpp.s
+
+.PHONY : wisdom/getMaxRepetitions.s
+
+# target to generate assembly for a file
+wisdom/getMaxRepetitions.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/wisdom/getMaxRepetitions.cpp.s
+.PHONY : wisdom/getMaxRepetitions.cpp.s
+
+wisdom/singleNumbers.o: wisdom/singleNumbers.cpp.o
+
+.PHONY : wisdom/singleNumbers.o
+
+# target to build an object file
+wisdom/singleNumbers.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/wisdom/singleNumbers.cpp.o
+.PHONY : wisdom/singleNumbers.cpp.o
+
+wisdom/singleNumbers.i: wisdom/singleNumbers.cpp.i
+
+.PHONY : wisdom/singleNumbers.i
+
+# target to preprocess a source file
+wisdom/singleNumbers.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/wisdom/singleNumbers.cpp.i
+.PHONY : wisdom/singleNumbers.cpp.i
+
+wisdom/singleNumbers.s: wisdom/singleNumbers.cpp.s
+
+.PHONY : wisdom/singleNumbers.s
+
+# target to generate assembly for a file
+wisdom/singleNumbers.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/wisdom/singleNumbers.cpp.s
+.PHONY : wisdom/singleNumbers.cpp.s
+
+wisdom/twoSum.o: wisdom/twoSum.cpp.o
+
+.PHONY : wisdom/twoSum.o
+
+# target to build an object file
+wisdom/twoSum.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/wisdom/twoSum.cpp.o
+.PHONY : wisdom/twoSum.cpp.o
+
+wisdom/twoSum.i: wisdom/twoSum.cpp.i
+
+.PHONY : wisdom/twoSum.i
+
+# target to preprocess a source file
+wisdom/twoSum.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/wisdom/twoSum.cpp.i
+.PHONY : wisdom/twoSum.cpp.i
+
+wisdom/twoSum.s: wisdom/twoSum.cpp.s
+
+.PHONY : wisdom/twoSum.s
+
+# target to generate assembly for a file
+wisdom/twoSum.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/wisdom/twoSum.cpp.s
+.PHONY : wisdom/twoSum.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -1068,6 +1230,9 @@ help:
 	@echo "... Sort/main57.o"
 	@echo "... Sort/main57.i"
 	@echo "... Sort/main57.s"
+	@echo "... Sort/mergeKLists.o"
+	@echo "... Sort/mergeKLists.i"
+	@echo "... Sort/mergeKLists.s"
 	@echo "... Sort/minIncrementForUnique.o"
 	@echo "... Sort/minIncrementForUnique.i"
 	@echo "... Sort/minIncrementForUnique.s"
@@ -1101,21 +1266,27 @@ help:
 	@echo "... distance/maxDistance.o"
 	@echo "... distance/maxDistance.i"
 	@echo "... distance/maxDistance.s"
-	@echo "... dynamic_program/longestPalindrome.o"
-	@echo "... dynamic_program/longestPalindrome.i"
-	@echo "... dynamic_program/longestPalindrome.s"
-	@echo "... dynamic_program/longestPalindrome2.o"
-	@echo "... dynamic_program/longestPalindrome2.i"
-	@echo "... dynamic_program/longestPalindrome2.s"
-	@echo "... dynamic_program/minDistance.o"
-	@echo "... dynamic_program/minDistance.i"
-	@echo "... dynamic_program/minDistance.s"
+	@echo "... dp/longestPalindrome.o"
+	@echo "... dp/longestPalindrome.i"
+	@echo "... dp/longestPalindrome.s"
+	@echo "... dp/longestPalindrome2.o"
+	@echo "... dp/longestPalindrome2.i"
+	@echo "... dp/longestPalindrome2.s"
+	@echo "... dp/minDistance.o"
+	@echo "... dp/minDistance.i"
+	@echo "... dp/minDistance.s"
+	@echo "... dp/updateMatrix.o"
+	@echo "... dp/updateMatrix.i"
+	@echo "... dp/updateMatrix.s"
 	@echo "... hamiton/lastRemaining.o"
 	@echo "... hamiton/lastRemaining.i"
 	@echo "... hamiton/lastRemaining.s"
 	@echo "... math/canMeasureWater.o"
 	@echo "... math/canMeasureWater.i"
 	@echo "... math/canMeasureWater.s"
+	@echo "... permute/permute.o"
+	@echo "... permute/permute.i"
+	@echo "... permute/permute.s"
 	@echo "... recursion/movingCount.o"
 	@echo "... recursion/movingCount.i"
 	@echo "... recursion/movingCount.s"
@@ -1152,6 +1323,15 @@ help:
 	@echo "... string/myAtoi.o"
 	@echo "... string/myAtoi.i"
 	@echo "... string/myAtoi.s"
+	@echo "... wisdom/getMaxRepetitions.o"
+	@echo "... wisdom/getMaxRepetitions.i"
+	@echo "... wisdom/getMaxRepetitions.s"
+	@echo "... wisdom/singleNumbers.o"
+	@echo "... wisdom/singleNumbers.i"
+	@echo "... wisdom/singleNumbers.s"
+	@echo "... wisdom/twoSum.o"
+	@echo "... wisdom/twoSum.i"
+	@echo "... wisdom/twoSum.s"
 .PHONY : help
 
 

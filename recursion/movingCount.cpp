@@ -25,7 +25,7 @@ int movingCount(int m, int n, int k) {
     return cnt;
 }
 
-int main() {
-    cout << movingCount(1, 2, ) << endl;
-    // cout << movingCount(3, 1, 0) << endl;
-}
+//int main() {
+//    cout << movingCount(1, 2, ) << endl;
+//    // cout << movingCount(3, 1, 0) << endl;
+//}

@@ -13,6 +13,8 @@ CMakeFiles/LeetCode.dir/Sort/main.cpp.o: ../Sort/main.cpp
 
 CMakeFiles/LeetCode.dir/Sort/main57.cpp.o: ../Sort/main57.cpp
 
+CMakeFiles/LeetCode.dir/Sort/mergeKLists.cpp.o: ../Sort/mergeKLists.cpp
+
 CMakeFiles/LeetCode.dir/Sort/minIncrementForUnique.cpp.o: ../Sort/minIncrementForUnique.cpp
 
 CMakeFiles/LeetCode.dir/Sort/sortArray.cpp.o: ../Sort/sortArray.cpp
@@ -35,15 +37,19 @@ CMakeFiles/LeetCode.dir/binary/searchRotate.cpp.o: ../binary/searchRotate.cpp
 
 CMakeFiles/LeetCode.dir/distance/maxDistance.cpp.o: ../distance/maxDistance.cpp
 
-CMakeFiles/LeetCode.dir/dynamic_program/longestPalindrome.cpp.o: ../dynamic\ program/longestPalindrome.cpp
+CMakeFiles/LeetCode.dir/dp/longestPalindrome.cpp.o: ../dp/longestPalindrome.cpp
 
-CMakeFiles/LeetCode.dir/dynamic_program/longestPalindrome2.cpp.o: ../dynamic\ program/longestPalindrome2.cpp
+CMakeFiles/LeetCode.dir/dp/longestPalindrome2.cpp.o: ../dp/longestPalindrome2.cpp
 
-CMakeFiles/LeetCode.dir/dynamic_program/minDistance.cpp.o: ../dynamic\ program/minDistance.cpp
+CMakeFiles/LeetCode.dir/dp/minDistance.cpp.o: ../dp/minDistance.cpp
+
+CMakeFiles/LeetCode.dir/dp/updateMatrix.cpp.o: ../dp/updateMatrix.cpp
 
 CMakeFiles/LeetCode.dir/hamiton/lastRemaining.cpp.o: ../hamiton/lastRemaining.cpp
 
 CMakeFiles/LeetCode.dir/math/canMeasureWater.cpp.o: ../math/canMeasureWater.cpp
+
+CMakeFiles/LeetCode.dir/permute/permute.cpp.o: ../permute/permute.cpp
 
 CMakeFiles/LeetCode.dir/recursion/movingCount.cpp.o: ../recursion/movingCount.cpp
 
@@ -68,4 +74,8 @@ CMakeFiles/LeetCode.dir/string/minimumLengthEncoding.cpp.o: ../string/minimumLen
 CMakeFiles/LeetCode.dir/string/minimumLengthEncoding2.cpp.o: ../string/minimumLengthEncoding2.cpp
 
 CMakeFiles/LeetCode.dir/string/myAtoi.cpp.o: ../string/myAtoi.cpp
+
+CMakeFiles/LeetCode.dir/wisdom/getMaxRepetitions.cpp.o: ../wisdom/getMaxRepetitions.cpp
+
+CMakeFiles/LeetCode.dir/wisdom/twoSum.cpp.o: ../wisdom/twoSum.cpp
 
