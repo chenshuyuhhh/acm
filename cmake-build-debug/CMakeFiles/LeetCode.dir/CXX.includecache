@@ -6,13 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/Users/chenshuyu/Code/C:C++/leetcode/wisdom/twoSum.cpp
-string
--
+/Users/chenshuyu/Code/C:C++/leetcode/binary/findMedianSortedArrays.cpp
 iostream
 -
 vector
--
-map
 -
 

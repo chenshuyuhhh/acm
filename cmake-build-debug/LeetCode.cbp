@@ -92,6 +92,15 @@
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/Array/rotateArray.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/List/addTwoNumbers.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/List/mergeTwoLists.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/Sort/findInMountainArray.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/Sort/main.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
@@ -119,6 +128,9 @@
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/T1/mergeString.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/binary/findMedianSortedArrays.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/binary/findmin.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
@@ -143,13 +155,22 @@
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/dp/minDistance.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/dp/mincostTickets.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/dp/updateMatrix.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/greedy/jump.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/hamiton/lastRemaining.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/math/canMeasureWater.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/mi/first.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/permute/permute.cpp">
@@ -179,6 +200,9 @@
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/stack/trap.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/string/lengthOfLongestSubstring.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/string/longestPalindrome.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
@@ -191,13 +215,16 @@
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/string/myAtoi.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/tree/isValidBST.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/wisdom/getMaxRepetitions.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/wisdom/singleNumbers.cpp">
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/wisdom/isHappy.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/wisdom/singleNumbers.h">
+		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/wisdom/singleNumbers.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Users/chenshuyu/Code/C:C++/leetcode/wisdom/twoSum.cpp">

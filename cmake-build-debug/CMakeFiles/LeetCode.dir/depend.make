@@ -9,6 +9,12 @@ CMakeFiles/LeetCode.dir/Array/numRookCaptures.cpp.o: ../Array/numRookCaptures.cp
 
 CMakeFiles/LeetCode.dir/Array/rotateArray.cpp.o: ../Array/rotateArray.cpp
 
+CMakeFiles/LeetCode.dir/List/addTwoNumbers.cpp.o: ../List/addTwoNumbers.cpp
+
+CMakeFiles/LeetCode.dir/List/mergeTwoLists.cpp.o: ../List/mergeTwoLists.cpp
+
+CMakeFiles/LeetCode.dir/Sort/findInMountainArray.cpp.o: ../Sort/findInMountainArray.cpp
+
 CMakeFiles/LeetCode.dir/Sort/main.cpp.o: ../Sort/main.cpp
 
 CMakeFiles/LeetCode.dir/Sort/main57.cpp.o: ../Sort/main57.cpp
@@ -27,6 +33,8 @@ CMakeFiles/LeetCode.dir/Sort/sortTest.cpp.o: ../Sort/sortTest.cpp
 
 CMakeFiles/LeetCode.dir/T1/mergeString.cpp.o: ../T1/mergeString.cpp
 
+CMakeFiles/LeetCode.dir/binary/findMedianSortedArrays.cpp.o: ../binary/findMedianSortedArrays.cpp
+
 CMakeFiles/LeetCode.dir/binary/findmin.cpp.o: ../binary/findmin.cpp
 
 CMakeFiles/LeetCode.dir/binary/mySqrt.cpp.o: ../binary/mySqrt.cpp
@@ -43,11 +51,17 @@ CMakeFiles/LeetCode.dir/dp/longestPalindrome2.cpp.o: ../dp/longestPalindrome2.cp
 
 CMakeFiles/LeetCode.dir/dp/minDistance.cpp.o: ../dp/minDistance.cpp
 
+CMakeFiles/LeetCode.dir/dp/mincostTickets.cpp.o: ../dp/mincostTickets.cpp
+
 CMakeFiles/LeetCode.dir/dp/updateMatrix.cpp.o: ../dp/updateMatrix.cpp
+
+CMakeFiles/LeetCode.dir/greedy/jump.cpp.o: ../greedy/jump.cpp
 
 CMakeFiles/LeetCode.dir/hamiton/lastRemaining.cpp.o: ../hamiton/lastRemaining.cpp
 
 CMakeFiles/LeetCode.dir/math/canMeasureWater.cpp.o: ../math/canMeasureWater.cpp
+
+CMakeFiles/LeetCode.dir/mi/first.cpp.o: ../mi/first.cpp
 
 CMakeFiles/LeetCode.dir/permute/permute.cpp.o: ../permute/permute.cpp
 
@@ -67,6 +81,8 @@ CMakeFiles/LeetCode.dir/stack/maxDepthAfterSplit.cpp.o: ../stack/maxDepthAfterSp
 
 CMakeFiles/LeetCode.dir/stack/trap.cpp.o: ../stack/trap.cpp
 
+CMakeFiles/LeetCode.dir/string/lengthOfLongestSubstring.cpp.o: ../string/lengthOfLongestSubstring.cpp
+
 CMakeFiles/LeetCode.dir/string/longestPalindrome.cpp.o: ../string/longestPalindrome.cpp
 
 CMakeFiles/LeetCode.dir/string/minimumLengthEncoding.cpp.o: ../string/minimumLengthEncoding.cpp
@@ -75,7 +91,13 @@ CMakeFiles/LeetCode.dir/string/minimumLengthEncoding2.cpp.o: ../string/minimumLe
 
 CMakeFiles/LeetCode.dir/string/myAtoi.cpp.o: ../string/myAtoi.cpp
 
+CMakeFiles/LeetCode.dir/tree/isValidBST.cpp.o: ../tree/isValidBST.cpp
+
 CMakeFiles/LeetCode.dir/wisdom/getMaxRepetitions.cpp.o: ../wisdom/getMaxRepetitions.cpp
+
+CMakeFiles/LeetCode.dir/wisdom/isHappy.cpp.o: ../wisdom/isHappy.cpp
+
+CMakeFiles/LeetCode.dir/wisdom/singleNumbers.cpp.o: ../wisdom/singleNumbers.cpp
 
 CMakeFiles/LeetCode.dir/wisdom/twoSum.cpp.o: ../wisdom/twoSum.cpp
 
