@@ -6,9 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/chenshuyu/Code/C:C++/leetcode/binary/findMedianSortedArrays.cpp
-iostream
--
+/Users/chenshuyu/Code/C:C++/leetcode/dp/calculateMinimumHP.cpp
 vector
+-
+string
+-
+iostream
 -
 

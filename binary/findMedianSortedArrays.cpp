@@ -81,9 +81,9 @@ double findMedianSortedArrays(vector<int> &nums1, vector<int> &nums2) {
     if ((size1 + size2) % 2 == 0) return (left + right) * 1.0 / 2;
     else return left;
 }
-
-int main() {
-    vector<int> num1 = {};
-    vector<int> num2 = {2, 3};
-    cout << findMedianSortedArrays(num1, num2);
-}
+//
+//int main() {
+//    vector<int> num1 = {};
+//    vector<int> num2 = {2, 3};
+//    cout << findMedianSortedArrays(num1, num2);
+//}
