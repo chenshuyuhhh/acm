@@ -35,10 +35,10 @@ int calculateMinimumHP(vector<vector<int>> dungeon) {
     return dp[0][0];
 }
 
-int main() {
-    cout << calculateMinimumHP({
-                                       {-2, -3,  3},
-                                       {-5, -10, 1},
-                                       {10, 30,  -5}
-                               });
-}
+//int main() {
+//    cout << calculateMinimumHP({
+//                                       {-2, -3,  3},
+//                                       {-5, -10, 1},
+//                                       {10, 30,  -5}
+//                               });
+//}

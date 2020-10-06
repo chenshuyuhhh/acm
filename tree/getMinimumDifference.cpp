@@ -45,6 +45,7 @@ public:
             cout << node->val << endl;
             node = node->right;
         }
+        return minD;
     }
 
 };

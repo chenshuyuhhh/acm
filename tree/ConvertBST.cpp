@@ -38,5 +38,6 @@ public:
 
             node = node->left;
         }
+        return root;
     }
 };

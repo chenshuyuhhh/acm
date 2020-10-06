@@ -157,7 +157,56 @@ i = i-1对应的b不是首字符，没有可利用前缀，i不变，j从0开始
 
 ![image-20200507131924675](/Users/chenshuyu/Library/Application Support/typora-user-images/image-20200507131924675.png)
 
+求next数组的过程完全可以看成字符串匹配的过程，即以**模式字符串**为主字符串，以模式字符串的**前缀**为目标字符串，一旦字符串匹配成功，那么当前的next值就是匹配成功的字符串的长度。
 
+```c++
+// 如何求next数组
+void getNext(char * p, int * next)
+{
+	next[0] = -1;
+	int i = 0, j = -1;
+
+	while (i < strlen(p))
+	{
+		if (j == -1 || p[i] == p[j])
+		{
+			++i;
+			++j;
+			next[i] = j;
+		}	
+		else
+			j = next[j];
+	}
+}
+
+```
+
+```c++
+// 知道next数组，KMP算法实现方式
+int KMP(char * t, char * p) 
+{
+	int i = 0; 
+	int j = 0;
+
+	while (i < strlen(t) && j < strlen(p))
+	{
+		if (j == -1 || t[i] == p[j])
+		{   // j=-1和匹配上都是i和j同时向后移一位
+			i++;
+           	j++;
+		}
+	 	else 
+        {   // i保持不变
+           	j = next[j];
+    	}
+    }
+
+    if (j == strlen(p))
+       return i - j;
+    else 
+       return -1;
+}
+```
 
 
 

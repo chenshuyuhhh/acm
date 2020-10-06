@@ -33,7 +33,7 @@ string longestPalindrome1(string s) {
     return maxS;
 }
 
-int main5() {
-    //cout << longestPalindrome("abc435cba");
-    cout << longestPalindrome1("babad");
-}
+//int main5() {
+//    //cout << longestPalindrome("abc435cba");
+//    cout << longestPalindrome1("babad");
+//}

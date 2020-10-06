@@ -123,6 +123,87 @@ LeetCode/fast:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/build
 .PHONY : LeetCode/fast
 
+9.14/Test1.o: 9.14/Test1.cpp.o
+
+.PHONY : 9.14/Test1.o
+
+# target to build an object file
+9.14/Test1.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/9.14/Test1.cpp.o
+.PHONY : 9.14/Test1.cpp.o
+
+9.14/Test1.i: 9.14/Test1.cpp.i
+
+.PHONY : 9.14/Test1.i
+
+# target to preprocess a source file
+9.14/Test1.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/9.14/Test1.cpp.i
+.PHONY : 9.14/Test1.cpp.i
+
+9.14/Test1.s: 9.14/Test1.cpp.s
+
+.PHONY : 9.14/Test1.s
+
+# target to generate assembly for a file
+9.14/Test1.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/9.14/Test1.cpp.s
+.PHONY : 9.14/Test1.cpp.s
+
+9.14/Test2.o: 9.14/Test2.cpp.o
+
+.PHONY : 9.14/Test2.o
+
+# target to build an object file
+9.14/Test2.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/9.14/Test2.cpp.o
+.PHONY : 9.14/Test2.cpp.o
+
+9.14/Test2.i: 9.14/Test2.cpp.i
+
+.PHONY : 9.14/Test2.i
+
+# target to preprocess a source file
+9.14/Test2.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/9.14/Test2.cpp.i
+.PHONY : 9.14/Test2.cpp.i
+
+9.14/Test2.s: 9.14/Test2.cpp.s
+
+.PHONY : 9.14/Test2.s
+
+# target to generate assembly for a file
+9.14/Test2.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/9.14/Test2.cpp.s
+.PHONY : 9.14/Test2.cpp.s
+
+9.14/Test3.o: 9.14/Test3.cpp.o
+
+.PHONY : 9.14/Test3.o
+
+# target to build an object file
+9.14/Test3.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/9.14/Test3.cpp.o
+.PHONY : 9.14/Test3.cpp.o
+
+9.14/Test3.i: 9.14/Test3.cpp.i
+
+.PHONY : 9.14/Test3.i
+
+# target to preprocess a source file
+9.14/Test3.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/9.14/Test3.cpp.i
+.PHONY : 9.14/Test3.cpp.i
+
+9.14/Test3.s: 9.14/Test3.cpp.s
+
+.PHONY : 9.14/Test3.s
+
+# target to generate assembly for a file
+9.14/Test3.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/9.14/Test3.cpp.s
+.PHONY : 9.14/Test3.cpp.s
+
 Array/countSmaller.o: Array/countSmaller.cpp.o
 
 .PHONY : Array/countSmaller.o
@@ -257,6 +338,60 @@ Array/rotateArray.s: Array/rotateArray.cpp.s
 Array/rotateArray.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Array/rotateArray.cpp.s
 .PHONY : Array/rotateArray.cpp.s
+
+BinaryGraph/GirlsAndBoys.o: BinaryGraph/GirlsAndBoys.cpp.o
+
+.PHONY : BinaryGraph/GirlsAndBoys.o
+
+# target to build an object file
+BinaryGraph/GirlsAndBoys.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/BinaryGraph/GirlsAndBoys.cpp.o
+.PHONY : BinaryGraph/GirlsAndBoys.cpp.o
+
+BinaryGraph/GirlsAndBoys.i: BinaryGraph/GirlsAndBoys.cpp.i
+
+.PHONY : BinaryGraph/GirlsAndBoys.i
+
+# target to preprocess a source file
+BinaryGraph/GirlsAndBoys.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/BinaryGraph/GirlsAndBoys.cpp.i
+.PHONY : BinaryGraph/GirlsAndBoys.cpp.i
+
+BinaryGraph/GirlsAndBoys.s: BinaryGraph/GirlsAndBoys.cpp.s
+
+.PHONY : BinaryGraph/GirlsAndBoys.s
+
+# target to generate assembly for a file
+BinaryGraph/GirlsAndBoys.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/BinaryGraph/GirlsAndBoys.cpp.s
+.PHONY : BinaryGraph/GirlsAndBoys.cpp.s
+
+BinaryGraph/TheAccomodationofStudents.o: BinaryGraph/TheAccomodationofStudents.cpp.o
+
+.PHONY : BinaryGraph/TheAccomodationofStudents.o
+
+# target to build an object file
+BinaryGraph/TheAccomodationofStudents.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/BinaryGraph/TheAccomodationofStudents.cpp.o
+.PHONY : BinaryGraph/TheAccomodationofStudents.cpp.o
+
+BinaryGraph/TheAccomodationofStudents.i: BinaryGraph/TheAccomodationofStudents.cpp.i
+
+.PHONY : BinaryGraph/TheAccomodationofStudents.i
+
+# target to preprocess a source file
+BinaryGraph/TheAccomodationofStudents.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/BinaryGraph/TheAccomodationofStudents.cpp.i
+.PHONY : BinaryGraph/TheAccomodationofStudents.cpp.i
+
+BinaryGraph/TheAccomodationofStudents.s: BinaryGraph/TheAccomodationofStudents.cpp.s
+
+.PHONY : BinaryGraph/TheAccomodationofStudents.s
+
+# target to generate assembly for a file
+BinaryGraph/TheAccomodationofStudents.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/BinaryGraph/TheAccomodationofStudents.cpp.s
+.PHONY : BinaryGraph/TheAccomodationofStudents.cpp.s
 
 List/LRUCache.o: List/LRUCache.cpp.o
 
@@ -609,6 +744,33 @@ Sort/sortTest.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Sort/sortTest.cpp.s
 .PHONY : Sort/sortTest.cpp.s
 
+Sort/threeSum.o: Sort/threeSum.cpp.o
+
+.PHONY : Sort/threeSum.o
+
+# target to build an object file
+Sort/threeSum.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Sort/threeSum.cpp.o
+.PHONY : Sort/threeSum.cpp.o
+
+Sort/threeSum.i: Sort/threeSum.cpp.i
+
+.PHONY : Sort/threeSum.i
+
+# target to preprocess a source file
+Sort/threeSum.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Sort/threeSum.cpp.i
+.PHONY : Sort/threeSum.cpp.i
+
+Sort/threeSum.s: Sort/threeSum.cpp.s
+
+.PHONY : Sort/threeSum.s
+
+# target to generate assembly for a file
+Sort/threeSum.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Sort/threeSum.cpp.s
+.PHONY : Sort/threeSum.cpp.s
+
 T1/mergeString.o: T1/mergeString.cpp.o
 
 .PHONY : T1/mergeString.o
@@ -635,6 +797,114 @@ T1/mergeString.s: T1/mergeString.cpp.s
 T1/mergeString.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/T1/mergeString.cpp.s
 .PHONY : T1/mergeString.cpp.s
+
+backTrack/combinationSum.o: backTrack/combinationSum.cpp.o
+
+.PHONY : backTrack/combinationSum.o
+
+# target to build an object file
+backTrack/combinationSum.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/backTrack/combinationSum.cpp.o
+.PHONY : backTrack/combinationSum.cpp.o
+
+backTrack/combinationSum.i: backTrack/combinationSum.cpp.i
+
+.PHONY : backTrack/combinationSum.i
+
+# target to preprocess a source file
+backTrack/combinationSum.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/backTrack/combinationSum.cpp.i
+.PHONY : backTrack/combinationSum.cpp.i
+
+backTrack/combinationSum.s: backTrack/combinationSum.cpp.s
+
+.PHONY : backTrack/combinationSum.s
+
+# target to generate assembly for a file
+backTrack/combinationSum.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/backTrack/combinationSum.cpp.s
+.PHONY : backTrack/combinationSum.cpp.s
+
+backTrack/combinationSum3.o: backTrack/combinationSum3.cpp.o
+
+.PHONY : backTrack/combinationSum3.o
+
+# target to build an object file
+backTrack/combinationSum3.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/backTrack/combinationSum3.cpp.o
+.PHONY : backTrack/combinationSum3.cpp.o
+
+backTrack/combinationSum3.i: backTrack/combinationSum3.cpp.i
+
+.PHONY : backTrack/combinationSum3.i
+
+# target to preprocess a source file
+backTrack/combinationSum3.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/backTrack/combinationSum3.cpp.i
+.PHONY : backTrack/combinationSum3.cpp.i
+
+backTrack/combinationSum3.s: backTrack/combinationSum3.cpp.s
+
+.PHONY : backTrack/combinationSum3.s
+
+# target to generate assembly for a file
+backTrack/combinationSum3.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/backTrack/combinationSum3.cpp.s
+.PHONY : backTrack/combinationSum3.cpp.s
+
+binary/QuoitDesign.o: binary/QuoitDesign.cpp.o
+
+.PHONY : binary/QuoitDesign.o
+
+# target to build an object file
+binary/QuoitDesign.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/binary/QuoitDesign.cpp.o
+.PHONY : binary/QuoitDesign.cpp.o
+
+binary/QuoitDesign.i: binary/QuoitDesign.cpp.i
+
+.PHONY : binary/QuoitDesign.i
+
+# target to preprocess a source file
+binary/QuoitDesign.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/binary/QuoitDesign.cpp.i
+.PHONY : binary/QuoitDesign.cpp.i
+
+binary/QuoitDesign.s: binary/QuoitDesign.cpp.s
+
+.PHONY : binary/QuoitDesign.s
+
+# target to generate assembly for a file
+binary/QuoitDesign.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/binary/QuoitDesign.cpp.s
+.PHONY : binary/QuoitDesign.cpp.s
+
+binary/QuoitDesign2.o: binary/QuoitDesign2.cpp.o
+
+.PHONY : binary/QuoitDesign2.o
+
+# target to build an object file
+binary/QuoitDesign2.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/binary/QuoitDesign2.cpp.o
+.PHONY : binary/QuoitDesign2.cpp.o
+
+binary/QuoitDesign2.i: binary/QuoitDesign2.cpp.i
+
+.PHONY : binary/QuoitDesign2.i
+
+# target to preprocess a source file
+binary/QuoitDesign2.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/binary/QuoitDesign2.cpp.i
+.PHONY : binary/QuoitDesign2.cpp.i
+
+binary/QuoitDesign2.s: binary/QuoitDesign2.cpp.s
+
+.PHONY : binary/QuoitDesign2.s
+
+# target to generate assembly for a file
+binary/QuoitDesign2.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/binary/QuoitDesign2.cpp.s
+.PHONY : binary/QuoitDesign2.cpp.s
 
 binary/findMedianSortedArrays.o: binary/findMedianSortedArrays.cpp.o
 
@@ -771,6 +1041,168 @@ binary/searchRotate.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/binary/searchRotate.cpp.s
 .PHONY : binary/searchRotate.cpp.s
 
+date/littleQ.o: date/littleQ.cpp.o
+
+.PHONY : date/littleQ.o
+
+# target to build an object file
+date/littleQ.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/date/littleQ.cpp.o
+.PHONY : date/littleQ.cpp.o
+
+date/littleQ.i: date/littleQ.cpp.i
+
+.PHONY : date/littleQ.i
+
+# target to preprocess a source file
+date/littleQ.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/date/littleQ.cpp.i
+.PHONY : date/littleQ.cpp.i
+
+date/littleQ.s: date/littleQ.cpp.s
+
+.PHONY : date/littleQ.s
+
+# target to generate assembly for a file
+date/littleQ.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/date/littleQ.cpp.s
+.PHONY : date/littleQ.cpp.s
+
+dfs/Nightmare.o: dfs/Nightmare.cpp.o
+
+.PHONY : dfs/Nightmare.o
+
+# target to build an object file
+dfs/Nightmare.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dfs/Nightmare.cpp.o
+.PHONY : dfs/Nightmare.cpp.o
+
+dfs/Nightmare.i: dfs/Nightmare.cpp.i
+
+.PHONY : dfs/Nightmare.i
+
+# target to preprocess a source file
+dfs/Nightmare.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dfs/Nightmare.cpp.i
+.PHONY : dfs/Nightmare.cpp.i
+
+dfs/Nightmare.s: dfs/Nightmare.cpp.s
+
+.PHONY : dfs/Nightmare.s
+
+# target to generate assembly for a file
+dfs/Nightmare.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dfs/Nightmare.cpp.s
+.PHONY : dfs/Nightmare.cpp.s
+
+dfs/PascalTravels.o: dfs/PascalTravels.cpp.o
+
+.PHONY : dfs/PascalTravels.o
+
+# target to build an object file
+dfs/PascalTravels.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dfs/PascalTravels.cpp.o
+.PHONY : dfs/PascalTravels.cpp.o
+
+dfs/PascalTravels.i: dfs/PascalTravels.cpp.i
+
+.PHONY : dfs/PascalTravels.i
+
+# target to preprocess a source file
+dfs/PascalTravels.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dfs/PascalTravels.cpp.i
+.PHONY : dfs/PascalTravels.cpp.i
+
+dfs/PascalTravels.s: dfs/PascalTravels.cpp.s
+
+.PHONY : dfs/PascalTravels.s
+
+# target to generate assembly for a file
+dfs/PascalTravels.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dfs/PascalTravels.cpp.s
+.PHONY : dfs/PascalTravels.cpp.s
+
+dfs/exist.o: dfs/exist.cpp.o
+
+.PHONY : dfs/exist.o
+
+# target to build an object file
+dfs/exist.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dfs/exist.cpp.o
+.PHONY : dfs/exist.cpp.o
+
+dfs/exist.i: dfs/exist.cpp.i
+
+.PHONY : dfs/exist.i
+
+# target to preprocess a source file
+dfs/exist.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dfs/exist.cpp.i
+.PHONY : dfs/exist.cpp.i
+
+dfs/exist.s: dfs/exist.cpp.s
+
+.PHONY : dfs/exist.s
+
+# target to generate assembly for a file
+dfs/exist.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dfs/exist.cpp.s
+.PHONY : dfs/exist.cpp.s
+
+dfs/runAwayGong.o: dfs/runAwayGong.cpp.o
+
+.PHONY : dfs/runAwayGong.o
+
+# target to build an object file
+dfs/runAwayGong.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dfs/runAwayGong.cpp.o
+.PHONY : dfs/runAwayGong.cpp.o
+
+dfs/runAwayGong.i: dfs/runAwayGong.cpp.i
+
+.PHONY : dfs/runAwayGong.i
+
+# target to preprocess a source file
+dfs/runAwayGong.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dfs/runAwayGong.cpp.i
+.PHONY : dfs/runAwayGong.cpp.i
+
+dfs/runAwayGong.s: dfs/runAwayGong.cpp.s
+
+.PHONY : dfs/runAwayGong.s
+
+# target to generate assembly for a file
+dfs/runAwayGong.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dfs/runAwayGong.cpp.s
+.PHONY : dfs/runAwayGong.cpp.s
+
+dfs/square.o: dfs/square.cpp.o
+
+.PHONY : dfs/square.o
+
+# target to build an object file
+dfs/square.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dfs/square.cpp.o
+.PHONY : dfs/square.cpp.o
+
+dfs/square.i: dfs/square.cpp.i
+
+.PHONY : dfs/square.i
+
+# target to preprocess a source file
+dfs/square.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dfs/square.cpp.i
+.PHONY : dfs/square.cpp.i
+
+dfs/square.s: dfs/square.cpp.s
+
+.PHONY : dfs/square.s
+
+# target to generate assembly for a file
+dfs/square.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dfs/square.cpp.s
+.PHONY : dfs/square.cpp.s
+
 distance/maxDistance.o: distance/maxDistance.cpp.o
 
 .PHONY : distance/maxDistance.o
@@ -797,6 +1229,87 @@ distance/maxDistance.s: distance/maxDistance.cpp.s
 distance/maxDistance.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/distance/maxDistance.cpp.s
 .PHONY : distance/maxDistance.cpp.s
+
+dp/IgnatiusandthePrincess3.o: dp/IgnatiusandthePrincess3.cpp.o
+
+.PHONY : dp/IgnatiusandthePrincess3.o
+
+# target to build an object file
+dp/IgnatiusandthePrincess3.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dp/IgnatiusandthePrincess3.cpp.o
+.PHONY : dp/IgnatiusandthePrincess3.cpp.o
+
+dp/IgnatiusandthePrincess3.i: dp/IgnatiusandthePrincess3.cpp.i
+
+.PHONY : dp/IgnatiusandthePrincess3.i
+
+# target to preprocess a source file
+dp/IgnatiusandthePrincess3.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dp/IgnatiusandthePrincess3.cpp.i
+.PHONY : dp/IgnatiusandthePrincess3.cpp.i
+
+dp/IgnatiusandthePrincess3.s: dp/IgnatiusandthePrincess3.cpp.s
+
+.PHONY : dp/IgnatiusandthePrincess3.s
+
+# target to generate assembly for a file
+dp/IgnatiusandthePrincess3.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dp/IgnatiusandthePrincess3.cpp.s
+.PHONY : dp/IgnatiusandthePrincess3.cpp.s
+
+dp/UniquePaths.o: dp/UniquePaths.cpp.o
+
+.PHONY : dp/UniquePaths.o
+
+# target to build an object file
+dp/UniquePaths.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dp/UniquePaths.cpp.o
+.PHONY : dp/UniquePaths.cpp.o
+
+dp/UniquePaths.i: dp/UniquePaths.cpp.i
+
+.PHONY : dp/UniquePaths.i
+
+# target to preprocess a source file
+dp/UniquePaths.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dp/UniquePaths.cpp.i
+.PHONY : dp/UniquePaths.cpp.i
+
+dp/UniquePaths.s: dp/UniquePaths.cpp.s
+
+.PHONY : dp/UniquePaths.s
+
+# target to generate assembly for a file
+dp/UniquePaths.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dp/UniquePaths.cpp.s
+.PHONY : dp/UniquePaths.cpp.s
+
+dp/banana.o: dp/banana.cpp.o
+
+.PHONY : dp/banana.o
+
+# target to build an object file
+dp/banana.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dp/banana.cpp.o
+.PHONY : dp/banana.cpp.o
+
+dp/banana.i: dp/banana.cpp.i
+
+.PHONY : dp/banana.i
+
+# target to preprocess a source file
+dp/banana.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dp/banana.cpp.i
+.PHONY : dp/banana.cpp.i
+
+dp/banana.s: dp/banana.cpp.s
+
+.PHONY : dp/banana.s
+
+# target to generate assembly for a file
+dp/banana.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dp/banana.cpp.s
+.PHONY : dp/banana.cpp.s
 
 dp/calculateMinimumHP.o: dp/calculateMinimumHP.cpp.o
 
@@ -851,6 +1364,33 @@ dp/combine.s: dp/combine.cpp.s
 dp/combine.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dp/combine.cpp.s
 .PHONY : dp/combine.cpp.s
+
+dp/countNumbersWithUniqueDigits.o: dp/countNumbersWithUniqueDigits.cpp.o
+
+.PHONY : dp/countNumbersWithUniqueDigits.o
+
+# target to build an object file
+dp/countNumbersWithUniqueDigits.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dp/countNumbersWithUniqueDigits.cpp.o
+.PHONY : dp/countNumbersWithUniqueDigits.cpp.o
+
+dp/countNumbersWithUniqueDigits.i: dp/countNumbersWithUniqueDigits.cpp.i
+
+.PHONY : dp/countNumbersWithUniqueDigits.i
+
+# target to preprocess a source file
+dp/countNumbersWithUniqueDigits.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dp/countNumbersWithUniqueDigits.cpp.i
+.PHONY : dp/countNumbersWithUniqueDigits.cpp.i
+
+dp/countNumbersWithUniqueDigits.s: dp/countNumbersWithUniqueDigits.cpp.s
+
+.PHONY : dp/countNumbersWithUniqueDigits.s
+
+# target to generate assembly for a file
+dp/countNumbersWithUniqueDigits.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dp/countNumbersWithUniqueDigits.cpp.s
+.PHONY : dp/countNumbersWithUniqueDigits.cpp.s
 
 dp/findTheLongestSubstring.o: dp/findTheLongestSubstring.cpp.o
 
@@ -987,6 +1527,33 @@ dp/maxProduct.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dp/maxProduct.cpp.s
 .PHONY : dp/maxProduct.cpp.s
 
+dp/maxProfit.o: dp/maxProfit.cpp.o
+
+.PHONY : dp/maxProfit.o
+
+# target to build an object file
+dp/maxProfit.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dp/maxProfit.cpp.o
+.PHONY : dp/maxProfit.cpp.o
+
+dp/maxProfit.i: dp/maxProfit.cpp.i
+
+.PHONY : dp/maxProfit.i
+
+# target to preprocess a source file
+dp/maxProfit.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dp/maxProfit.cpp.i
+.PHONY : dp/maxProfit.cpp.i
+
+dp/maxProfit.s: dp/maxProfit.cpp.s
+
+.PHONY : dp/maxProfit.s
+
+# target to generate assembly for a file
+dp/maxProfit.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dp/maxProfit.cpp.s
+.PHONY : dp/maxProfit.cpp.s
+
 dp/maxProfit3.o: dp/maxProfit3.cpp.o
 
 .PHONY : dp/maxProfit3.o
@@ -1122,6 +1689,33 @@ dp/updateMatrix.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/dp/updateMatrix.cpp.s
 .PHONY : dp/updateMatrix.cpp.s
 
+graph/deleteEdge.o: graph/deleteEdge.cpp.o
+
+.PHONY : graph/deleteEdge.o
+
+# target to build an object file
+graph/deleteEdge.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/graph/deleteEdge.cpp.o
+.PHONY : graph/deleteEdge.cpp.o
+
+graph/deleteEdge.i: graph/deleteEdge.cpp.i
+
+.PHONY : graph/deleteEdge.i
+
+# target to preprocess a source file
+graph/deleteEdge.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/graph/deleteEdge.cpp.i
+.PHONY : graph/deleteEdge.cpp.i
+
+graph/deleteEdge.s: graph/deleteEdge.cpp.s
+
+.PHONY : graph/deleteEdge.s
+
+# target to generate assembly for a file
+graph/deleteEdge.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/graph/deleteEdge.cpp.s
+.PHONY : graph/deleteEdge.cpp.s
+
 graph/findOrder.o: graph/findOrder.cpp.o
 
 .PHONY : graph/findOrder.o
@@ -1175,6 +1769,114 @@ graph/findOrder2.s: graph/findOrder2.cpp.s
 graph/findOrder2.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/graph/findOrder2.cpp.s
 .PHONY : graph/findOrder2.cpp.s
+
+greedy/canCompleteCircuit.o: greedy/canCompleteCircuit.cpp.o
+
+.PHONY : greedy/canCompleteCircuit.o
+
+# target to build an object file
+greedy/canCompleteCircuit.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/greedy/canCompleteCircuit.cpp.o
+.PHONY : greedy/canCompleteCircuit.cpp.o
+
+greedy/canCompleteCircuit.i: greedy/canCompleteCircuit.cpp.i
+
+.PHONY : greedy/canCompleteCircuit.i
+
+# target to preprocess a source file
+greedy/canCompleteCircuit.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/greedy/canCompleteCircuit.cpp.i
+.PHONY : greedy/canCompleteCircuit.cpp.i
+
+greedy/canCompleteCircuit.s: greedy/canCompleteCircuit.cpp.s
+
+.PHONY : greedy/canCompleteCircuit.s
+
+# target to generate assembly for a file
+greedy/canCompleteCircuit.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/greedy/canCompleteCircuit.cpp.s
+.PHONY : greedy/canCompleteCircuit.cpp.s
+
+greedy/canJump.o: greedy/canJump.cpp.o
+
+.PHONY : greedy/canJump.o
+
+# target to build an object file
+greedy/canJump.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/greedy/canJump.cpp.o
+.PHONY : greedy/canJump.cpp.o
+
+greedy/canJump.i: greedy/canJump.cpp.i
+
+.PHONY : greedy/canJump.i
+
+# target to preprocess a source file
+greedy/canJump.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/greedy/canJump.cpp.i
+.PHONY : greedy/canJump.cpp.i
+
+greedy/canJump.s: greedy/canJump.cpp.s
+
+.PHONY : greedy/canJump.s
+
+# target to generate assembly for a file
+greedy/canJump.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/greedy/canJump.cpp.s
+.PHONY : greedy/canJump.cpp.s
+
+greedy/candy.o: greedy/candy.cpp.o
+
+.PHONY : greedy/candy.o
+
+# target to build an object file
+greedy/candy.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/greedy/candy.cpp.o
+.PHONY : greedy/candy.cpp.o
+
+greedy/candy.i: greedy/candy.cpp.i
+
+.PHONY : greedy/candy.i
+
+# target to preprocess a source file
+greedy/candy.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/greedy/candy.cpp.i
+.PHONY : greedy/candy.cpp.i
+
+greedy/candy.s: greedy/candy.cpp.s
+
+.PHONY : greedy/candy.s
+
+# target to generate assembly for a file
+greedy/candy.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/greedy/candy.cpp.s
+.PHONY : greedy/candy.cpp.s
+
+greedy/doHomework.o: greedy/doHomework.cpp.o
+
+.PHONY : greedy/doHomework.o
+
+# target to build an object file
+greedy/doHomework.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/greedy/doHomework.cpp.o
+.PHONY : greedy/doHomework.cpp.o
+
+greedy/doHomework.i: greedy/doHomework.cpp.i
+
+.PHONY : greedy/doHomework.i
+
+# target to preprocess a source file
+greedy/doHomework.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/greedy/doHomework.cpp.i
+.PHONY : greedy/doHomework.cpp.i
+
+greedy/doHomework.s: greedy/doHomework.cpp.s
+
+.PHONY : greedy/doHomework.s
+
+# target to generate assembly for a file
+greedy/doHomework.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/greedy/doHomework.cpp.s
+.PHONY : greedy/doHomework.cpp.s
 
 greedy/findContentChildren.o: greedy/findContentChildren.cpp.o
 
@@ -1230,6 +1932,60 @@ greedy/jump.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/greedy/jump.cpp.s
 .PHONY : greedy/jump.cpp.s
 
+greedy/jump2.o: greedy/jump2.cpp.o
+
+.PHONY : greedy/jump2.o
+
+# target to build an object file
+greedy/jump2.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/greedy/jump2.cpp.o
+.PHONY : greedy/jump2.cpp.o
+
+greedy/jump2.i: greedy/jump2.cpp.i
+
+.PHONY : greedy/jump2.i
+
+# target to preprocess a source file
+greedy/jump2.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/greedy/jump2.cpp.i
+.PHONY : greedy/jump2.cpp.i
+
+greedy/jump2.s: greedy/jump2.cpp.s
+
+.PHONY : greedy/jump2.s
+
+# target to generate assembly for a file
+greedy/jump2.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/greedy/jump2.cpp.s
+.PHONY : greedy/jump2.cpp.s
+
+greedy/leastInterval.o: greedy/leastInterval.cpp.o
+
+.PHONY : greedy/leastInterval.o
+
+# target to build an object file
+greedy/leastInterval.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/greedy/leastInterval.cpp.o
+.PHONY : greedy/leastInterval.cpp.o
+
+greedy/leastInterval.i: greedy/leastInterval.cpp.i
+
+.PHONY : greedy/leastInterval.i
+
+# target to preprocess a source file
+greedy/leastInterval.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/greedy/leastInterval.cpp.i
+.PHONY : greedy/leastInterval.cpp.i
+
+greedy/leastInterval.s: greedy/leastInterval.cpp.s
+
+.PHONY : greedy/leastInterval.s
+
+# target to generate assembly for a file
+greedy/leastInterval.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/greedy/leastInterval.cpp.s
+.PHONY : greedy/leastInterval.cpp.s
+
 greedy/maxProfit.o: greedy/maxProfit.cpp.o
 
 .PHONY : greedy/maxProfit.o
@@ -1256,6 +2012,60 @@ greedy/maxProfit.s: greedy/maxProfit.cpp.s
 greedy/maxProfit.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/greedy/maxProfit.cpp.s
 .PHONY : greedy/maxProfit.cpp.s
+
+greedy/reconstructQueue.o: greedy/reconstructQueue.cpp.o
+
+.PHONY : greedy/reconstructQueue.o
+
+# target to build an object file
+greedy/reconstructQueue.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/greedy/reconstructQueue.cpp.o
+.PHONY : greedy/reconstructQueue.cpp.o
+
+greedy/reconstructQueue.i: greedy/reconstructQueue.cpp.i
+
+.PHONY : greedy/reconstructQueue.i
+
+# target to preprocess a source file
+greedy/reconstructQueue.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/greedy/reconstructQueue.cpp.i
+.PHONY : greedy/reconstructQueue.cpp.i
+
+greedy/reconstructQueue.s: greedy/reconstructQueue.cpp.s
+
+.PHONY : greedy/reconstructQueue.s
+
+# target to generate assembly for a file
+greedy/reconstructQueue.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/greedy/reconstructQueue.cpp.s
+.PHONY : greedy/reconstructQueue.cpp.s
+
+greedy/wiggleMaxLength.o: greedy/wiggleMaxLength.cpp.o
+
+.PHONY : greedy/wiggleMaxLength.o
+
+# target to build an object file
+greedy/wiggleMaxLength.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/greedy/wiggleMaxLength.cpp.o
+.PHONY : greedy/wiggleMaxLength.cpp.o
+
+greedy/wiggleMaxLength.i: greedy/wiggleMaxLength.cpp.i
+
+.PHONY : greedy/wiggleMaxLength.i
+
+# target to preprocess a source file
+greedy/wiggleMaxLength.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/greedy/wiggleMaxLength.cpp.i
+.PHONY : greedy/wiggleMaxLength.cpp.i
+
+greedy/wiggleMaxLength.s: greedy/wiggleMaxLength.cpp.s
+
+.PHONY : greedy/wiggleMaxLength.s
+
+# target to generate assembly for a file
+greedy/wiggleMaxLength.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/greedy/wiggleMaxLength.cpp.s
+.PHONY : greedy/wiggleMaxLength.cpp.s
 
 hamiton/lastRemaining.o: hamiton/lastRemaining.cpp.o
 
@@ -1554,6 +2364,33 @@ retancle/surfaceArea.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/retancle/surfaceArea.cpp.s
 .PHONY : retancle/surfaceArea.cpp.s
 
+stack/IgnatiusTrainStation.o: stack/IgnatiusTrainStation.cpp.o
+
+.PHONY : stack/IgnatiusTrainStation.o
+
+# target to build an object file
+stack/IgnatiusTrainStation.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/stack/IgnatiusTrainStation.cpp.o
+.PHONY : stack/IgnatiusTrainStation.cpp.o
+
+stack/IgnatiusTrainStation.i: stack/IgnatiusTrainStation.cpp.i
+
+.PHONY : stack/IgnatiusTrainStation.i
+
+# target to preprocess a source file
+stack/IgnatiusTrainStation.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/stack/IgnatiusTrainStation.cpp.i
+.PHONY : stack/IgnatiusTrainStation.cpp.i
+
+stack/IgnatiusTrainStation.s: stack/IgnatiusTrainStation.cpp.s
+
+.PHONY : stack/IgnatiusTrainStation.s
+
+# target to generate assembly for a file
+stack/IgnatiusTrainStation.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/stack/IgnatiusTrainStation.cpp.s
+.PHONY : stack/IgnatiusTrainStation.cpp.s
+
 stack/gameOfLife.o: stack/gameOfLife.cpp.o
 
 .PHONY : stack/gameOfLife.o
@@ -1716,6 +2553,60 @@ stack/trap.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/stack/trap.cpp.s
 .PHONY : stack/trap.cpp.s
 
+string/CutFlower.o: string/CutFlower.cpp.o
+
+.PHONY : string/CutFlower.o
+
+# target to build an object file
+string/CutFlower.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/string/CutFlower.cpp.o
+.PHONY : string/CutFlower.cpp.o
+
+string/CutFlower.i: string/CutFlower.cpp.i
+
+.PHONY : string/CutFlower.i
+
+# target to preprocess a source file
+string/CutFlower.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/string/CutFlower.cpp.i
+.PHONY : string/CutFlower.cpp.i
+
+string/CutFlower.s: string/CutFlower.cpp.s
+
+.PHONY : string/CutFlower.s
+
+# target to generate assembly for a file
+string/CutFlower.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/string/CutFlower.cpp.s
+.PHONY : string/CutFlower.cpp.s
+
+string/CyclicNacklace.o: string/CyclicNacklace.cpp.o
+
+.PHONY : string/CyclicNacklace.o
+
+# target to build an object file
+string/CyclicNacklace.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/string/CyclicNacklace.cpp.o
+.PHONY : string/CyclicNacklace.cpp.o
+
+string/CyclicNacklace.i: string/CyclicNacklace.cpp.i
+
+.PHONY : string/CyclicNacklace.i
+
+# target to preprocess a source file
+string/CyclicNacklace.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/string/CyclicNacklace.cpp.i
+.PHONY : string/CyclicNacklace.cpp.i
+
+string/CyclicNacklace.s: string/CyclicNacklace.cpp.s
+
+.PHONY : string/CyclicNacklace.s
+
+# target to generate assembly for a file
+string/CyclicNacklace.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/string/CyclicNacklace.cpp.s
+.PHONY : string/CyclicNacklace.cpp.s
+
 string/lengthOfLongestSubstring.o: string/lengthOfLongestSubstring.cpp.o
 
 .PHONY : string/lengthOfLongestSubstring.o
@@ -1769,6 +2660,33 @@ string/longestPalindrome.s: string/longestPalindrome.cpp.s
 string/longestPalindrome.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/string/longestPalindrome.cpp.s
 .PHONY : string/longestPalindrome.cpp.s
+
+string/longestPalindrome2.o: string/longestPalindrome2.cpp.o
+
+.PHONY : string/longestPalindrome2.o
+
+# target to build an object file
+string/longestPalindrome2.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/string/longestPalindrome2.cpp.o
+.PHONY : string/longestPalindrome2.cpp.o
+
+string/longestPalindrome2.i: string/longestPalindrome2.cpp.i
+
+.PHONY : string/longestPalindrome2.i
+
+# target to preprocess a source file
+string/longestPalindrome2.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/string/longestPalindrome2.cpp.i
+.PHONY : string/longestPalindrome2.cpp.i
+
+string/longestPalindrome2.s: string/longestPalindrome2.cpp.s
+
+.PHONY : string/longestPalindrome2.s
+
+# target to generate assembly for a file
+string/longestPalindrome2.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/string/longestPalindrome2.cpp.s
+.PHONY : string/longestPalindrome2.cpp.s
 
 string/minimumLengthEncoding.o: string/minimumLengthEncoding.cpp.o
 
@@ -1932,6 +2850,60 @@ tree/getMinimumDifference.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/tree/getMinimumDifference.cpp.s
 .PHONY : tree/getMinimumDifference.cpp.s
 
+tree/inorderSuccessor.o: tree/inorderSuccessor.cpp.o
+
+.PHONY : tree/inorderSuccessor.o
+
+# target to build an object file
+tree/inorderSuccessor.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/tree/inorderSuccessor.cpp.o
+.PHONY : tree/inorderSuccessor.cpp.o
+
+tree/inorderSuccessor.i: tree/inorderSuccessor.cpp.i
+
+.PHONY : tree/inorderSuccessor.i
+
+# target to preprocess a source file
+tree/inorderSuccessor.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/tree/inorderSuccessor.cpp.i
+.PHONY : tree/inorderSuccessor.cpp.i
+
+tree/inorderSuccessor.s: tree/inorderSuccessor.cpp.s
+
+.PHONY : tree/inorderSuccessor.s
+
+# target to generate assembly for a file
+tree/inorderSuccessor.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/tree/inorderSuccessor.cpp.s
+.PHONY : tree/inorderSuccessor.cpp.s
+
+tree/inorderTraversal.o: tree/inorderTraversal.cpp.o
+
+.PHONY : tree/inorderTraversal.o
+
+# target to build an object file
+tree/inorderTraversal.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/tree/inorderTraversal.cpp.o
+.PHONY : tree/inorderTraversal.cpp.o
+
+tree/inorderTraversal.i: tree/inorderTraversal.cpp.i
+
+.PHONY : tree/inorderTraversal.i
+
+# target to preprocess a source file
+tree/inorderTraversal.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/tree/inorderTraversal.cpp.i
+.PHONY : tree/inorderTraversal.cpp.i
+
+tree/inorderTraversal.s: tree/inorderTraversal.cpp.s
+
+.PHONY : tree/inorderTraversal.s
+
+# target to generate assembly for a file
+tree/inorderTraversal.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/tree/inorderTraversal.cpp.s
+.PHONY : tree/inorderTraversal.cpp.s
+
 tree/isBalanced.o: tree/isBalanced.cpp.o
 
 .PHONY : tree/isBalanced.o
@@ -2066,6 +3038,87 @@ unionfound/equationsPossible.s: unionfound/equationsPossible.cpp.s
 unionfound/equationsPossible.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/unionfound/equationsPossible.cpp.s
 .PHONY : unionfound/equationsPossible.cpp.s
+
+violence/Compute24.o: violence/Compute24.cpp.o
+
+.PHONY : violence/Compute24.o
+
+# target to build an object file
+violence/Compute24.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/violence/Compute24.cpp.o
+.PHONY : violence/Compute24.cpp.o
+
+violence/Compute24.i: violence/Compute24.cpp.i
+
+.PHONY : violence/Compute24.i
+
+# target to preprocess a source file
+violence/Compute24.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/violence/Compute24.cpp.i
+.PHONY : violence/Compute24.cpp.i
+
+violence/Compute24.s: violence/Compute24.cpp.s
+
+.PHONY : violence/Compute24.s
+
+# target to generate assembly for a file
+violence/Compute24.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/violence/Compute24.cpp.s
+.PHONY : violence/Compute24.cpp.s
+
+violence/runAway.o: violence/runAway.cpp.o
+
+.PHONY : violence/runAway.o
+
+# target to build an object file
+violence/runAway.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/violence/runAway.cpp.o
+.PHONY : violence/runAway.cpp.o
+
+violence/runAway.i: violence/runAway.cpp.i
+
+.PHONY : violence/runAway.i
+
+# target to preprocess a source file
+violence/runAway.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/violence/runAway.cpp.i
+.PHONY : violence/runAway.cpp.i
+
+violence/runAway.s: violence/runAway.cpp.s
+
+.PHONY : violence/runAway.s
+
+# target to generate assembly for a file
+violence/runAway.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/violence/runAway.cpp.s
+.PHONY : violence/runAway.cpp.s
+
+violence/soldier.o: violence/soldier.cpp.o
+
+.PHONY : violence/soldier.o
+
+# target to build an object file
+violence/soldier.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/violence/soldier.cpp.o
+.PHONY : violence/soldier.cpp.o
+
+violence/soldier.i: violence/soldier.cpp.i
+
+.PHONY : violence/soldier.i
+
+# target to preprocess a source file
+violence/soldier.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/violence/soldier.cpp.i
+.PHONY : violence/soldier.cpp.i
+
+violence/soldier.s: violence/soldier.cpp.s
+
+.PHONY : violence/soldier.s
+
+# target to generate assembly for a file
+violence/soldier.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/violence/soldier.cpp.s
+.PHONY : violence/soldier.cpp.s
 
 window/minWindow.o: window/minWindow.cpp.o
 
@@ -2373,6 +3426,15 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... LeetCode"
+	@echo "... 9.14/Test1.o"
+	@echo "... 9.14/Test1.i"
+	@echo "... 9.14/Test1.s"
+	@echo "... 9.14/Test2.o"
+	@echo "... 9.14/Test2.i"
+	@echo "... 9.14/Test2.s"
+	@echo "... 9.14/Test3.o"
+	@echo "... 9.14/Test3.i"
+	@echo "... 9.14/Test3.s"
 	@echo "... Array/countSmaller.o"
 	@echo "... Array/countSmaller.i"
 	@echo "... Array/countSmaller.s"
@@ -2388,6 +3450,12 @@ help:
 	@echo "... Array/rotateArray.o"
 	@echo "... Array/rotateArray.i"
 	@echo "... Array/rotateArray.s"
+	@echo "... BinaryGraph/GirlsAndBoys.o"
+	@echo "... BinaryGraph/GirlsAndBoys.i"
+	@echo "... BinaryGraph/GirlsAndBoys.s"
+	@echo "... BinaryGraph/TheAccomodationofStudents.o"
+	@echo "... BinaryGraph/TheAccomodationofStudents.i"
+	@echo "... BinaryGraph/TheAccomodationofStudents.s"
 	@echo "... List/LRUCache.o"
 	@echo "... List/LRUCache.i"
 	@echo "... List/LRUCache.s"
@@ -2427,9 +3495,24 @@ help:
 	@echo "... Sort/sortTest.o"
 	@echo "... Sort/sortTest.i"
 	@echo "... Sort/sortTest.s"
+	@echo "... Sort/threeSum.o"
+	@echo "... Sort/threeSum.i"
+	@echo "... Sort/threeSum.s"
 	@echo "... T1/mergeString.o"
 	@echo "... T1/mergeString.i"
 	@echo "... T1/mergeString.s"
+	@echo "... backTrack/combinationSum.o"
+	@echo "... backTrack/combinationSum.i"
+	@echo "... backTrack/combinationSum.s"
+	@echo "... backTrack/combinationSum3.o"
+	@echo "... backTrack/combinationSum3.i"
+	@echo "... backTrack/combinationSum3.s"
+	@echo "... binary/QuoitDesign.o"
+	@echo "... binary/QuoitDesign.i"
+	@echo "... binary/QuoitDesign.s"
+	@echo "... binary/QuoitDesign2.o"
+	@echo "... binary/QuoitDesign2.i"
+	@echo "... binary/QuoitDesign2.s"
 	@echo "... binary/findMedianSortedArrays.o"
 	@echo "... binary/findMedianSortedArrays.i"
 	@echo "... binary/findMedianSortedArrays.s"
@@ -2445,15 +3528,45 @@ help:
 	@echo "... binary/searchRotate.o"
 	@echo "... binary/searchRotate.i"
 	@echo "... binary/searchRotate.s"
+	@echo "... date/littleQ.o"
+	@echo "... date/littleQ.i"
+	@echo "... date/littleQ.s"
+	@echo "... dfs/Nightmare.o"
+	@echo "... dfs/Nightmare.i"
+	@echo "... dfs/Nightmare.s"
+	@echo "... dfs/PascalTravels.o"
+	@echo "... dfs/PascalTravels.i"
+	@echo "... dfs/PascalTravels.s"
+	@echo "... dfs/exist.o"
+	@echo "... dfs/exist.i"
+	@echo "... dfs/exist.s"
+	@echo "... dfs/runAwayGong.o"
+	@echo "... dfs/runAwayGong.i"
+	@echo "... dfs/runAwayGong.s"
+	@echo "... dfs/square.o"
+	@echo "... dfs/square.i"
+	@echo "... dfs/square.s"
 	@echo "... distance/maxDistance.o"
 	@echo "... distance/maxDistance.i"
 	@echo "... distance/maxDistance.s"
+	@echo "... dp/IgnatiusandthePrincess3.o"
+	@echo "... dp/IgnatiusandthePrincess3.i"
+	@echo "... dp/IgnatiusandthePrincess3.s"
+	@echo "... dp/UniquePaths.o"
+	@echo "... dp/UniquePaths.i"
+	@echo "... dp/UniquePaths.s"
+	@echo "... dp/banana.o"
+	@echo "... dp/banana.i"
+	@echo "... dp/banana.s"
 	@echo "... dp/calculateMinimumHP.o"
 	@echo "... dp/calculateMinimumHP.i"
 	@echo "... dp/calculateMinimumHP.s"
 	@echo "... dp/combine.o"
 	@echo "... dp/combine.i"
 	@echo "... dp/combine.s"
+	@echo "... dp/countNumbersWithUniqueDigits.o"
+	@echo "... dp/countNumbersWithUniqueDigits.i"
+	@echo "... dp/countNumbersWithUniqueDigits.s"
 	@echo "... dp/findTheLongestSubstring.o"
 	@echo "... dp/findTheLongestSubstring.i"
 	@echo "... dp/findTheLongestSubstring.s"
@@ -2469,6 +3582,9 @@ help:
 	@echo "... dp/maxProduct.o"
 	@echo "... dp/maxProduct.i"
 	@echo "... dp/maxProduct.s"
+	@echo "... dp/maxProfit.o"
+	@echo "... dp/maxProfit.i"
+	@echo "... dp/maxProfit.s"
 	@echo "... dp/maxProfit3.o"
 	@echo "... dp/maxProfit3.i"
 	@echo "... dp/maxProfit3.s"
@@ -2484,21 +3600,48 @@ help:
 	@echo "... dp/updateMatrix.o"
 	@echo "... dp/updateMatrix.i"
 	@echo "... dp/updateMatrix.s"
+	@echo "... graph/deleteEdge.o"
+	@echo "... graph/deleteEdge.i"
+	@echo "... graph/deleteEdge.s"
 	@echo "... graph/findOrder.o"
 	@echo "... graph/findOrder.i"
 	@echo "... graph/findOrder.s"
 	@echo "... graph/findOrder2.o"
 	@echo "... graph/findOrder2.i"
 	@echo "... graph/findOrder2.s"
+	@echo "... greedy/canCompleteCircuit.o"
+	@echo "... greedy/canCompleteCircuit.i"
+	@echo "... greedy/canCompleteCircuit.s"
+	@echo "... greedy/canJump.o"
+	@echo "... greedy/canJump.i"
+	@echo "... greedy/canJump.s"
+	@echo "... greedy/candy.o"
+	@echo "... greedy/candy.i"
+	@echo "... greedy/candy.s"
+	@echo "... greedy/doHomework.o"
+	@echo "... greedy/doHomework.i"
+	@echo "... greedy/doHomework.s"
 	@echo "... greedy/findContentChildren.o"
 	@echo "... greedy/findContentChildren.i"
 	@echo "... greedy/findContentChildren.s"
 	@echo "... greedy/jump.o"
 	@echo "... greedy/jump.i"
 	@echo "... greedy/jump.s"
+	@echo "... greedy/jump2.o"
+	@echo "... greedy/jump2.i"
+	@echo "... greedy/jump2.s"
+	@echo "... greedy/leastInterval.o"
+	@echo "... greedy/leastInterval.i"
+	@echo "... greedy/leastInterval.s"
 	@echo "... greedy/maxProfit.o"
 	@echo "... greedy/maxProfit.i"
 	@echo "... greedy/maxProfit.s"
+	@echo "... greedy/reconstructQueue.o"
+	@echo "... greedy/reconstructQueue.i"
+	@echo "... greedy/reconstructQueue.s"
+	@echo "... greedy/wiggleMaxLength.o"
+	@echo "... greedy/wiggleMaxLength.i"
+	@echo "... greedy/wiggleMaxLength.s"
 	@echo "... hamiton/lastRemaining.o"
 	@echo "... hamiton/lastRemaining.i"
 	@echo "... hamiton/lastRemaining.s"
@@ -2532,6 +3675,9 @@ help:
 	@echo "... retancle/surfaceArea.o"
 	@echo "... retancle/surfaceArea.i"
 	@echo "... retancle/surfaceArea.s"
+	@echo "... stack/IgnatiusTrainStation.o"
+	@echo "... stack/IgnatiusTrainStation.i"
+	@echo "... stack/IgnatiusTrainStation.s"
 	@echo "... stack/gameOfLife.o"
 	@echo "... stack/gameOfLife.i"
 	@echo "... stack/gameOfLife.s"
@@ -2550,12 +3696,21 @@ help:
 	@echo "... stack/trap.o"
 	@echo "... stack/trap.i"
 	@echo "... stack/trap.s"
+	@echo "... string/CutFlower.o"
+	@echo "... string/CutFlower.i"
+	@echo "... string/CutFlower.s"
+	@echo "... string/CyclicNacklace.o"
+	@echo "... string/CyclicNacklace.i"
+	@echo "... string/CyclicNacklace.s"
 	@echo "... string/lengthOfLongestSubstring.o"
 	@echo "... string/lengthOfLongestSubstring.i"
 	@echo "... string/lengthOfLongestSubstring.s"
 	@echo "... string/longestPalindrome.o"
 	@echo "... string/longestPalindrome.i"
 	@echo "... string/longestPalindrome.s"
+	@echo "... string/longestPalindrome2.o"
+	@echo "... string/longestPalindrome2.i"
+	@echo "... string/longestPalindrome2.s"
 	@echo "... string/minimumLengthEncoding.o"
 	@echo "... string/minimumLengthEncoding.i"
 	@echo "... string/minimumLengthEncoding.s"
@@ -2574,6 +3729,12 @@ help:
 	@echo "... tree/getMinimumDifference.o"
 	@echo "... tree/getMinimumDifference.i"
 	@echo "... tree/getMinimumDifference.s"
+	@echo "... tree/inorderSuccessor.o"
+	@echo "... tree/inorderSuccessor.i"
+	@echo "... tree/inorderSuccessor.s"
+	@echo "... tree/inorderTraversal.o"
+	@echo "... tree/inorderTraversal.i"
+	@echo "... tree/inorderTraversal.s"
 	@echo "... tree/isBalanced.o"
 	@echo "... tree/isBalanced.i"
 	@echo "... tree/isBalanced.s"
@@ -2589,6 +3750,15 @@ help:
 	@echo "... unionfound/equationsPossible.o"
 	@echo "... unionfound/equationsPossible.i"
 	@echo "... unionfound/equationsPossible.s"
+	@echo "... violence/Compute24.o"
+	@echo "... violence/Compute24.i"
+	@echo "... violence/Compute24.s"
+	@echo "... violence/runAway.o"
+	@echo "... violence/runAway.i"
+	@echo "... violence/runAway.s"
+	@echo "... violence/soldier.o"
+	@echo "... violence/soldier.i"
+	@echo "... violence/soldier.s"
 	@echo "... window/minWindow.o"
 	@echo "... window/minWindow.i"
 	@echo "... window/minWindow.s"

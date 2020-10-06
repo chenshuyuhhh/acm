@@ -29,4 +29,5 @@ vector<vector<int>> combine(int n, int k) {
     combine_k = k;
     combine_n = n;
     combineBackTrack(1, {});
+    return combine_result;
 }

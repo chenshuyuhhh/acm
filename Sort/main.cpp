@@ -49,7 +49,7 @@ int maximumGap(vector<int> &nums) {
     cout << max_gap;
 }
 
-int main2() {
-    vector<int> num = {3, 6, 9, 1};
-    maximumGap(num);
-}
+//int main2() {
+//    vector<int> num = {3, 6, 9, 1};
+//    maximumGap(num);
+//}
